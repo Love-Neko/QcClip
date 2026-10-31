@@ -235,38 +235,31 @@ fn render_symbol_item(
         .id(("symbol-item", item_id))
         .h(ui_rem(symbol_list::ROW_HEIGHT))
         .w_full()
-        .p_1()
+        .px_1()
         .flex()
         .items_center()
         .justify_center()
+        .rounded_lg()
+        .cursor_pointer()
+        .border_1()
+        .border_color(cx.theme().colors.border)
+        .hover(|this| this.bg(cx.theme().colors.secondary_hover))
+        .tooltip(move |window, cx| Tooltip::new(tooltip.clone()).build(window, cx))
+        .on_click(cx.listener(move |this, _, _, cx| {
+            this.paste_symbol(glyph.clone(), cx);
+        }))
         .child(
             div()
-                .size_full()
+                .w_full()
+                .px_2()
                 .flex()
                 .items_center()
                 .justify_center()
-                .rounded_lg()
-                .cursor_pointer()
-                .border_1()
-                .border_color(cx.theme().colors.border)
-                .hover(|this| this.bg(cx.theme().colors.secondary_hover))
-                .tooltip(move |window, cx| Tooltip::new(tooltip.clone()).build(window, cx))
-                .on_click(cx.listener(move |this, _, _, cx| {
-                    this.paste_symbol(glyph.clone(), cx);
-                }))
-                .child(
-                    div()
-                        .w_full()
-                        .px_2()
-                        .flex()
-                        .items_center()
-                        .justify_center()
-                        .overflow_hidden()
-                        .whitespace_nowrap()
-                        .text_size(ui_rem(13.0))
-                        .text_color(cx.theme().colors.foreground)
-                        .child(item.glyph.clone()),
-                ),
+                .overflow_hidden()
+                .whitespace_nowrap()
+                .text_size(ui_rem(13.0))
+                .text_color(cx.theme().colors.foreground)
+                .child(item.glyph.clone()),
         )
         .into_any_element()
 }
