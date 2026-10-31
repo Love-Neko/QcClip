@@ -32,41 +32,6 @@ pub(crate) const EMOJI_CATEGORIES: &[EmojiCategoryDefinition] = &[
         icon: "mood-smile",
         label_key: "emoji.smileys",
     },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::PeopleBody,
-        icon: "user",
-        label_key: "emoji.people",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::AnimalsNature,
-        icon: "paw",
-        label_key: "emoji.animals",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::FoodDrink,
-        icon: "apple",
-        label_key: "emoji.food",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::TravelPlaces,
-        icon: "plane",
-        label_key: "emoji.travel",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::Activities,
-        icon: "ball-football",
-        label_key: "emoji.activities",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::Objects,
-        icon: "bulb",
-        label_key: "emoji.objects",
-    },
-    EmojiCategoryDefinition {
-        id: EmojiCategoryId::Symbols,
-        icon: "abc",
-        label_key: "emoji.symbolsCat",
-    },
 ];
 
 #[derive(Clone, Debug)]
