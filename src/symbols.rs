@@ -33,37 +33,37 @@ pub(crate) const SYMBOL_GROUPS: &[SymbolGroupDefinition] = &[
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::HappyCelebrate,
-        icon: "mood-smile",
+        icon: "confetti",
         label_key: "kaomoji.happy_celebrate",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::EncouragePraise,
-        icon: "arrow-bar-to-up",
+        icon: "thumb-up",
         label_key: "kaomoji.encourage_praise",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::GratefulFriendly,
-        icon: "star",
+        icon: "heart",
         label_key: "kaomoji.grateful_friendly",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::ComfortEmpathy,
-        icon: "users-group",
+        icon: "sun",
         label_key: "kaomoji.comfort_empathy",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::CuteShy,
-        icon: "sticker",
+        icon: "mood-bluz",
         label_key: "kaomoji.cute_shy",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::FunnyTeasing,
-        icon: "typography",
+        icon: "mood-wink",
         label_key: "kaomoji.funny_teasing",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::DailyRest,
-        icon: "calendar",
+        icon: "coffee",
         label_key: "kaomoji.daily_rest",
     },
     SymbolGroupDefinition {
@@ -78,17 +78,17 @@ pub(crate) const SYMBOL_GROUPS: &[SymbolGroupDefinition] = &[
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::SurprisedShock,
-        icon: "exclamation-circle",
+        icon: "mood-surprised",
         label_key: "kaomoji.surprised_shock",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::HelplessSigh,
-        icon: "dots",
+        icon: "mood-confuzed",
         label_key: "kaomoji.helpless_sigh",
     },
     SymbolGroupDefinition {
         id: SymbolGroupId::ApologyBow,
-        icon: "arrow-bar-to-left",
+        icon: "pray",
         label_key: "kaomoji.apology_bow",
     },
 ];
