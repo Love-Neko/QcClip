@@ -140,7 +140,7 @@ pub const SYMBOL_CATEGORIES: &[SymbolCategoryDefinition] = &[
     SymbolCategoryDefinition {
         id: SymbolCategoryId::Symbols,
         label_key: "main.symbol.symbols",
-        icon: "math-symbols",
+        icon: "kaomoji",
     },
     SymbolCategoryDefinition {
         id: SymbolCategoryId::Gallery,

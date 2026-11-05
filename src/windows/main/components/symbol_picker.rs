@@ -32,7 +32,7 @@ pub(crate) fn render(
     let columns = symbol_layout::grid_columns(
         main,
         window,
-        symbol_list::CELL_MIN_WIDTH,
+        110.0, // Kaomoji card min width
         horizontal_categories,
     );
     let rows = Rc::new(build_rows(main, data, columns, &translator));
@@ -229,33 +229,36 @@ fn render_symbol_item(
     cx: &mut Context<MainWindow>,
 ) -> AnyElement {
     let glyph = item.glyph.clone();
-    let tooltip = item.name.clone();
+    let tooltip = format!("{}\n{}", item.glyph, item.name);
     let item_id = ((row_index as u32) << 16) | item_index as u32;
     div()
         .id(("symbol-item", item_id))
         .h(ui_rem(symbol_list::ROW_HEIGHT))
         .w_full()
+        .px_1()
         .flex()
         .items_center()
         .justify_center()
         .rounded_lg()
         .cursor_pointer()
-        .tooltip(move |window, cx| Tooltip::new(tooltip.clone()).build(window, cx))
+        .border_1()
+        .border_color(cx.theme().colors.border)
         .hover(|this| this.bg(cx.theme().colors.secondary_hover))
+        .tooltip(move |window, cx| Tooltip::new(tooltip.clone()).build(window, cx))
         .on_click(cx.listener(move |this, _, _, cx| {
             this.paste_symbol(glyph.clone(), cx);
         }))
         .child(
             div()
-                .size(ui_rem(34.0))
+                .w_full()
+                .px_2()
                 .flex()
                 .items_center()
                 .justify_center()
                 .overflow_hidden()
                 .whitespace_nowrap()
-                .text_size(ui_rem(24.0))
-                .line_height(ui_rem(30.0))
-                .font_family("Segoe UI Symbol")
+                .text_size(ui_rem(13.0))
+                .text_color(cx.theme().colors.foreground)
                 .child(item.glyph.clone()),
         )
         .into_any_element()

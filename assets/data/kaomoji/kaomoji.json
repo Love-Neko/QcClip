@@ -1,0 +1,4940 @@
+[
+  {
+    "glyph": "w(ﾟДﾟ)w",
+    "name": "惊呼啊啊 · 轻度惊讶·意外·感叹",
+    "search_text": "w(ﾟдﾟ)w 惊呼啊啊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(ノへ￣、)",
+    "name": "擦干眼泪 · 安慰·抚慰·共情",
+    "search_text": "(ノへ￣、) 擦干眼泪 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(￣_,￣ )",
+    "name": "不屑傲娇 · 幽默·傲娇·打趣",
+    "search_text": "(￣_,￣ ) 不屑傲娇 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ヽ(✿ﾟ▽ﾟ)ノ",
+    "name": "欢呼好耶 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(✿ﾟ▽ﾟ)ノ 欢呼好耶 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑•̀ㅂ•́)و✧",
+    "name": "加油必胜 · 鼓励·加油·赞赏",
+    "search_text": "(๑•̀ㅂ•́)و✧ 加油必胜 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(￣ε(#￣)☆╰╮o(￣皿￣///)",
+    "name": "抽 · 幽默·傲娇·打趣",
+    "search_text": "(￣ε(#￣)☆╰╮o(￣皿￣///) 抽 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "（づ￣3￣）づ╭❤～",
+    "name": "飞吻感谢 · 温柔·感谢·友好",
+    "search_text": "（づ￣3￣）づ╭❤～ 飞吻感谢 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "Σ( ° △ °|||)︴",
+    "name": "大汗淋漓 · 无奈·叹气·尴尬",
+    "search_text": "σ( ° △ °|||)︴ 大汗淋漓 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(～￣(OO)￣)ブ",
+    "name": "憨憨小猪 · 萌宠·动物·拟态",
+    "search_text": "(～￣(oo)￣)ブ 憨憨小猪 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "凸(艹皿艹 )",
+    "name": "擦 · 幽默·傲娇·打趣",
+    "search_text": "凸(艹皿艹 ) 擦 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(* ￣3)(ε￣ *)",
+    "name": "亲昵感谢 · 温柔·感谢·友好",
+    "search_text": "(* ￣3)(ε￣ *) 亲昵感谢 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*￣rǒ￣)",
+    "name": "挖鼻屎 · 幽默·傲娇·打趣",
+    "search_text": "(*￣rǒ￣) 挖鼻屎 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "┗|｀O′|┛ 嗷~~",
+    "name": "嗷 · 喜悦·庆祝·欢呼",
+    "search_text": "┗|｀o′|┛ 嗷~~ 嗷 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "φ(≧ω≦*)♪",
+    "name": "自得其乐 · 喜悦·庆祝·欢呼",
+    "search_text": "φ(≧ω≦*)♪ 自得其乐 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "︿(￣︶￣)︿",
+    "name": "飞 · 喜悦·庆祝·欢呼",
+    "search_text": "︿(￣︶￣)︿ 飞 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(u‿ฺu✿ฺ)",
+    "name": "乖巧点头 · 卖萌·害羞·撒娇",
+    "search_text": "(u‿ฺu✿ฺ) 乖巧点头 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "Hi~ o(*￣▽￣*)ブ",
+    "name": "挥手招呼 · 日常·问候·休息",
+    "search_text": "hi~ o(*￣▽￣*)ブ 挥手招呼 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "♪(^∇^*)",
+    "name": "欢快哼歌 · 喜悦·庆祝·欢呼",
+    "search_text": "♪(^∇^*) 欢快哼歌 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(*≧▽≦)ツ┏━┓",
+    "name": "拍桌狂笑 · 幽默·傲娇·打趣",
+    "search_text": "o(*≧▽≦)ツ┏━┓ 拍桌狂笑 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "╰(*°▽°*)╯",
+    "name": "大喜过望 · 轻度惊讶·意外·感叹",
+    "search_text": "╰(*°▽°*)╯ 大喜过望 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "（○｀ 3′○）",
+    "name": "嘟嘴 · 卖萌·害羞·撒娇",
+    "search_text": "（○｀ 3′○） 嘟嘴 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "o(*^＠^*)o",
+    "name": "乖巧可爱 · 卖萌·害羞·撒娇",
+    "search_text": "o(*^＠^*)o 乖巧可爱 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(#`O′)",
+    "name": "喂 · 喜悦·庆祝·欢呼",
+    "search_text": "(#`o′) 喂 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(°ー°〃)",
+    "name": "愣住 · 思考·分析·推导",
+    "search_text": "(°ー°〃) 愣住 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "○|￣|_ =3",
+    "name": "放屁 · 幽默·傲娇·打趣",
+    "search_text": "○|￣|_ =3 放屁 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "o(￣ヘ￣o＃)",
+    "name": "哼哼 · 喜悦·庆祝·欢呼",
+    "search_text": "o(￣ヘ￣o＃) 哼哼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（＝。＝）",
+    "name": "可恶 · 喜悦·庆祝·欢呼",
+    "search_text": "（＝。＝） 可恶 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "~~( ﹁ ﹁ ) ~~~",
+    "name": "切 · 喜悦·庆祝·欢呼",
+    "search_text": "~~( ﹁ ﹁ ) ~~~ 切 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ーー゛)",
+    "name": "去 · 喜悦·庆祝·欢呼",
+    "search_text": "(ーー゛) 去 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ー`´ー)",
+    "name": "生气 · 喜悦·庆祝·欢呼",
+    "search_text": "(ー`´ー) 生气 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(一︿一+)o",
+    "name": "怨念 · 喜悦·庆祝·欢呼",
+    "search_text": "o(一︿一+)o 怨念 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(≧口≦)o",
+    "name": "崩溃 · 喜悦·庆祝·欢呼",
+    "search_text": "o(≧口≦)o 崩溃 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ㄟ( ▔, ▔ )ㄏ",
+    "name": "无奈耸肩 · 无奈·叹气·尴尬",
+    "search_text": "ㄟ( ▔, ▔ )ㄏ 无奈耸肩 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(o_ _)ﾉ",
+    "name": "败了 · 无奈·叹气·尴尬",
+    "search_text": "(o_ _)ﾉ 败了 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(⊙﹏⊙)",
+    "name": "呃呃呃 · 无奈·叹气·尴尬",
+    "search_text": "(⊙﹏⊙) 呃呃呃 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(ˉ▽￣～) 切~~",
+    "name": "切 · 喜悦·庆祝·欢呼",
+    "search_text": "(ˉ▽￣～) 切~~ 切 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（＊￣（エ）￣）",
+    "name": "无言 · 无奈·叹气·尴尬",
+    "search_text": "（＊￣（エ）￣） 无言 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "┑(￣Д ￣)┍",
+    "name": "摊手 · 无奈·叹气·尴尬",
+    "search_text": "┑(￣д ￣)┍ 摊手 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(＠_＠;)",
+    "name": "推敲琢磨 · 思考·分析·推导",
+    "search_text": "(＠_＠;) 推敲琢磨 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "━┳━　━┳━",
+    "name": "呆 · 喜悦·庆祝·欢呼",
+    "search_text": "━┳━　━┳━ 呆 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(☆´益`)c",
+    "name": "扶额 · 无奈·叹气·尴尬",
+    "search_text": "(☆´益`)c 扶额 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "（´Д`）",
+    "name": "囧 · 无奈·叹气·尴尬",
+    "search_text": "（´д`） 囧 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "┗( T﹏T )┛",
+    "name": "投降 · 喜悦·庆祝·欢呼",
+    "search_text": "┗( t﹏t )┛ 投降 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(。﹏。*)",
+    "name": "我错了 · 喜悦·庆祝·欢呼",
+    "search_text": "(。﹏。*) 我错了 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o( =•ω•= )m",
+    "name": "喵星人 · 喜悦·庆祝·欢呼",
+    "search_text": "o( =•ω•= )m 喵星人 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "≡ω≡",
+    "name": "喵呜 · 喜悦·庆祝·欢呼",
+    "search_text": "≡ω≡ 喵呜 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*￣(エ)￣)",
+    "name": "熊 · 萌宠·动物·拟态",
+    "search_text": "(*￣(エ)￣) 熊 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(✿◡‿◡)",
+    "name": "羞怯微笑 · 卖萌·害羞·撒娇",
+    "search_text": "(✿◡‿◡) 羞怯微笑 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(*/ω＼*)",
+    "name": "脸红 · 卖萌·害羞·撒娇",
+    "search_text": "(*/ω＼*) 脸红 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "┭┮﹏┭┮",
+    "name": "呜呜呜 · 喜悦·庆祝·欢呼",
+    "search_text": "┭┮﹏┭┮ 呜呜呜 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヾ(￣▽￣)Bye~Bye~",
+    "name": "拜拜道别 · 日常·问候·休息",
+    "search_text": "ヾ(￣▽￣)bye~bye~ 拜拜道别 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "( ﹁ ﹁ ) ~→",
+    "name": "斜眼 · 喜悦·庆祝·欢呼",
+    "search_text": "( ﹁ ﹁ ) ~→ 斜眼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "Ψ(￣∀￣)Ψ",
+    "name": "美味 · 喜悦·庆祝·欢呼",
+    "search_text": "ψ(￣∀￣)ψ 美味 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "✧(≖ ◡ ≖✿)",
+    "name": "闪 · 喜悦·庆祝·欢呼",
+    "search_text": "✧(≖ ◡ ≖✿) 闪 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "━━(￣ー￣*|||━━",
+    "name": "淡定 · 喜悦·庆祝·欢呼",
+    "search_text": "━━(￣ー￣*|||━━ 淡定 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(*。>Д",
+    "name": "太可怕了 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(*。>д 太可怕了 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┌(。Д。)┐",
+    "name": "恐怖 · 轻度惊讶·意外·感叹",
+    "search_text": "┌(。д。)┐ 恐怖 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "○|￣|_",
+    "name": "orz · 幽默·傲娇·打趣",
+    "search_text": "○|￣|_ orz 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "o(￣▽￣)ｄ",
+    "name": "good · 喜悦·庆祝·欢呼",
+    "search_text": "o(￣▽￣)ｄ good 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(；′⌒`)",
+    "name": "伤心 · 安慰·抚慰·共情",
+    "search_text": "(；′⌒`) 伤心 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "X﹏X",
+    "name": "糟糕 · 喜悦·庆祝·欢呼",
+    "search_text": "x﹏x 糟糕 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヾ(≧▽≦*)o",
+    "name": "开怀大笑 · 喜悦·庆祝·欢呼",
+    "search_text": "ヾ(≧▽≦*)o 开怀大笑 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(*≧▽≦)ツ",
+    "name": "爆笑 · 喜悦·庆祝·欢呼",
+    "search_text": "o(*≧▽≦)ツ 爆笑 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(o゜▽゜)o☆[BINGO!]",
+    "name": "bingo · 喜悦·庆祝·欢呼",
+    "search_text": "(o゜▽゜)o☆[bingo!] bingo 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "～(￣▽￣～)(～￣▽￣)～",
+    "name": "得瑟摇晃 · 幽默·傲娇·打趣",
+    "search_text": "～(￣▽￣～)(～￣▽￣)～ 得瑟摇晃 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "o(*￣▽￣*)o",
+    "name": "嗯哪 · 喜悦·庆祝·欢呼",
+    "search_text": "o(*￣▽￣*)o 嗯哪 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "φ(゜▽゜*)♪",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "φ(゜▽゜*)♪ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "╰(￣▽￣)╭",
+    "name": "跟你说 · 喜悦·庆祝·欢呼",
+    "search_text": "╰(￣▽￣)╭ 跟你说 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "*´∀`)´∀`)*´∀`)*´∀`)",
+    "name": "哈哈哈哈 · 喜悦·庆祝·欢呼",
+    "search_text": "*´∀`)´∀`)*´∀`)*´∀`) 哈哈哈哈 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(｡･∀･)ﾉﾞ",
+    "name": "嗨 · 喜悦·庆祝·欢呼",
+    "search_text": "(｡･∀･)ﾉﾞ 嗨 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヾ(≧∇≦*)ゝ",
+    "name": "嗨 · 喜悦·庆祝·欢呼",
+    "search_text": "ヾ(≧∇≦*)ゝ 嗨 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（゜▽＾*））",
+    "name": "好滴 · 喜悦·庆祝·欢呼",
+    "search_text": "（゜▽＾*）） 好滴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*^▽^*)",
+    "name": "灿烂微笑 · 喜悦·庆祝·欢呼",
+    "search_text": "(*^▽^*) 灿烂微笑 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´▽`ʃ♡ƪ)",
+    "name": "Happy · 温柔·感谢·友好",
+    "search_text": "(´▽`ʃ♡ƪ) happy 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "○( ＾皿＾)っHiahiahia…",
+    "name": "Hia hia · 喜悦·庆祝·欢呼",
+    "search_text": "○( ＾皿＾)っhiahiahia… hia hia 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(( へ(へ´∀`)へ",
+    "name": "High · 喜悦·庆祝·欢呼",
+    "search_text": "(( へ(へ´∀`)へ high 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "^O^",
+    "name": "吼吼 · 喜悦·庆祝·欢呼",
+    "search_text": "^o^ 吼吼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ＾∀＾）／欢迎＼( ＾∀＾）",
+    "name": "欢迎 · 喜悦·庆祝·欢呼",
+    "search_text": "( ＾∀＾）／欢迎＼( ＾∀＾） 欢迎 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヾ(￣ー￣)X(^▽^)ゞ",
+    "name": "获胜 · 鼓励·加油·赞赏",
+    "search_text": "ヾ(￣ー￣)x(^▽^)ゞ 获胜 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "⊙▽⊙",
+    "name": "惊喜 · 喜悦·庆祝·欢呼",
+    "search_text": "⊙▽⊙ 惊喜 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ￣ー￣)人(^▽^ )",
+    "name": "击掌 · 喜悦·庆祝·欢呼",
+    "search_text": "( ￣ー￣)人(^▽^ ) 击掌 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "...φ(0￣*)啦啦啦_φ(*￣0￣)",
+    "name": "K歌 · 喜悦·庆祝·欢呼",
+    "search_text": "...φ(0￣*)啦啦啦_φ(*￣0￣) k歌 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "...φ(0￣*)啦啦啦_φ(*￣0￣)>",
+    "name": "啦啦啦 · 喜悦·庆祝·欢呼",
+    "search_text": "...φ(0￣*)啦啦啦_φ(*￣0￣)> 啦啦啦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑´ㅂ`๑)",
+    "name": "乐 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑´ㅂ`๑) 乐 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(≧∀≦)ゞ",
+    "name": "乐呵 · 喜悦·庆祝·欢呼",
+    "search_text": "(≧∀≦)ゞ 乐呵 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑¯∀¯๑)",
+    "name": "满足 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑¯∀¯๑) 满足 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(*￣︶￣*)o",
+    "name": "满足 · 喜悦·庆祝·欢呼",
+    "search_text": "o(*￣︶￣*)o 满足 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ε(*´･∀･｀)зﾞ",
+    "name": "Oh yeah · 喜悦·庆祝·欢呼",
+    "search_text": "ε(*´･∀･｀)зﾞ oh yeah 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（≧0≦）//（-_-。）・・・",
+    "name": "哦哦 · 喜悦·庆祝·欢呼",
+    "search_text": "（≧0≦）//（-_-。）・・・ 哦哦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(　ﾟ∀ﾟ) ﾉ♡",
+    "name": "噢耶 · 温柔·感谢·友好",
+    "search_text": "(　ﾟ∀ﾟ) ﾉ♡ 噢耶 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(^&^)/",
+    "name": "噢耶 · 喜悦·庆祝·欢呼",
+    "search_text": "(^&^)/ 噢耶 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "””\\(￣ー￣) (￣ー￣)//””",
+    "name": "拍手 · 喜悦·庆祝·欢呼",
+    "search_text": "””\\(￣ー￣) (￣ー￣)//”” 拍手 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(～￣▽￣)～",
+    "name": "飘 · 喜悦·庆祝·欢呼",
+    "search_text": "(～￣▽￣)～ 飘 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(/≧▽≦)/",
+    "name": "噗 · 喜悦·庆祝·欢呼",
+    "search_text": "(/≧▽≦)/ 噗 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(☆▽☆)",
+    "name": "期待 · 喜悦·庆祝·欢呼",
+    "search_text": "(☆▽☆) 期待 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "*★,°*:.☆(￣▽￣)/$:*.°★*",
+    "name": "散花 · 喜悦·庆祝·欢呼",
+    "search_text": "*★,°*:.☆(￣▽￣)/$:*.°★* 散花 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ㄟ(≧◇≦)ㄏ",
+    "name": "太棒了 · 鼓励·加油·赞赏",
+    "search_text": "ㄟ(≧◇≦)ㄏ 太棒了 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "ヽ(ﾟ∀ﾟ*)ﾉ━━━ｩ♪",
+    "name": "逃 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(ﾟ∀ﾟ*)ﾉ━━━ｩ♪ 逃 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( *︾▽︾)",
+    "name": "陶醉 · 喜悦·庆祝·欢呼",
+    "search_text": "( *︾▽︾) 陶醉 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "☆⌒(*＾-゜)v THX!!",
+    "name": "Thx · 喜悦·庆祝·欢呼",
+    "search_text": "☆⌒(*＾-゜)v thx!! thx 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "♪(´∇`*)",
+    "name": "天啊 · 喜悦·庆祝·欢呼",
+    "search_text": "♪(´∇`*) 天啊 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "！*★,°*:.☆(￣▽￣)/$:*.°★* 。",
+    "name": "万岁 · 喜悦·庆祝·欢呼",
+    "search_text": "！*★,°*:.☆(￣▽￣)/$:*.°★* 。 万岁 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "||ヽ(*￣▽￣*)ノミ|Ю",
+    "name": "我回来啦 · 喜悦·庆祝·欢呼",
+    "search_text": "||ヽ(*￣▽￣*)ノミ|ю 我回来啦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "~(～￣▽￣)～",
+    "name": "我来了 · 喜悦·庆祝·欢呼",
+    "search_text": "~(～￣▽￣)～ 我来了 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(p≧w≦q)",
+    "name": "兴奋 · 喜悦·庆祝·欢呼",
+    "search_text": "(p≧w≦q) 兴奋 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(＾－＾)V",
+    "name": "耶 · 喜悦·庆祝·欢呼",
+    "search_text": "(＾－＾)v 耶 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(＾Ｕ＾)ノ~ＹＯ",
+    "name": "哟 · 喜悦·庆祝·欢呼",
+    "search_text": "(＾ｕ＾)ノ~ｙｏ 哟 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(o゜▽゜)o☆",
+    "name": "有了 · 喜悦·庆祝·欢呼",
+    "search_text": "(o゜▽゜)o☆ 有了 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(((o(*ﾟ▽ﾟ*)o)))",
+    "name": "赞 · 鼓励·加油·赞赏",
+    "search_text": "(((o(*ﾟ▽ﾟ*)o))) 赞 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(￣︶￣)↗",
+    "name": "涨 · 喜悦·庆祝·欢呼",
+    "search_text": "(￣︶￣)↗ 涨 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(o>ε(o>ｕ(≧∩≦)",
+    "name": "振奋 · 喜悦·庆祝·欢呼",
+    "search_text": "(o>ε(o>ｕ(≧∩≦) 振奋 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(^▽^)o",
+    "name": "真好 · 喜悦·庆祝·欢呼",
+    "search_text": "o(^▽^)o 真好 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(>▽",
+    "name": "嗷 · 卖萌·害羞·撒娇",
+    "search_text": "(>▽ 嗷 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ヾ(≧O≦)〃嗷~",
+    "name": "嗷 · 卖萌·害羞·撒娇",
+    "search_text": "ヾ(≧o≦)〃嗷~ 嗷 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(っ*´Д`)っ",
+    "name": "笨蛋 · 卖萌·害羞·撒娇",
+    "search_text": "(っ*´д`)っ 笨蛋 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ヾ(´∀`o)+",
+    "name": "笨人 · 卖萌·害羞·撒娇",
+    "search_text": "ヾ(´∀`o)+ 笨人 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "不＞(￣ε￣ = ￣3￣)",
+    "name": "不要啊 · 温柔·感谢·友好",
+    "search_text": "不＞(￣ε￣ = ￣3￣) 不要啊 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "( *￣▽￣)((≧︶≦*)",
+    "name": "蹭蹭 · 卖萌·害羞·撒娇",
+    "search_text": "( *￣▽￣)((≧︶≦*) 蹭蹭 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "...(*￣０￣)ノ[等等我…]",
+    "name": "等等 · 卖萌·害羞·撒娇",
+    "search_text": "...(*￣０￣)ノ[等等我…] 等等 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "o(￣ε￣*)",
+    "name": "嘟嘴 · 温柔·感谢·友好",
+    "search_text": "o(￣ε￣*) 嘟嘴 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(￣┰￣*)",
+    "name": "鬼脸 · 轻度惊讶·意外·感叹",
+    "search_text": "(￣┰￣*) 鬼脸 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "（*＾-＾*）",
+    "name": "好可爱 · 温柔·感谢·友好",
+    "search_text": "（*＾-＾*） 好可爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(≧∇≦)ﾉ",
+    "name": "好喜欢 · 温柔·感谢·友好",
+    "search_text": "(≧∇≦)ﾉ 好喜欢 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "～(　TロT)σ",
+    "name": "坏人 · 卖萌·害羞·撒娇",
+    "search_text": "～(　tロt)σ 坏人 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(/0￣)o [呼唤]",
+    "name": "呼唤 · 卖萌·害羞·撒娇",
+    "search_text": "(/0￣)o [呼唤] 呼唤 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "n(*≧▽≦*)n",
+    "name": "可爱 · 温柔·感谢·友好",
+    "search_text": "n(*≧▽≦*)n 可爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(～o￣▽￣)～o ~。。。",
+    "name": "来啦 · 卖萌·害羞·撒娇",
+    "search_text": "(～o￣▽￣)～o ~。。。 来啦 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "=￣ω￣=",
+    "name": "卖萌 · 卖萌·害羞·撒娇",
+    "search_text": "=￣ω￣= 卖萌 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "（´v｀）",
+    "name": "满意 · 卖萌·害羞·撒娇",
+    "search_text": "（´v｀） 满意 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ο(=•ω＜=)ρ⌒☆",
+    "name": "媚眼 · 卖萌·害羞·撒娇",
+    "search_text": "ο(=•ω＜=)ρ⌒☆ 媚眼 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ヾ(´･ω･｀)ﾉ",
+    "name": "你好 · 日常·问候·休息",
+    "search_text": "ヾ(´･ω･｀)ﾉ 你好 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "ヾ(^▽^*)))",
+    "name": "你回来啦 · 卖萌·害羞·撒娇",
+    "search_text": "ヾ(^▽^*))) 你回来啦 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ｍ(o・ω・o)ｍ",
+    "name": "哦 · 卖萌·害羞·撒娇",
+    "search_text": "ｍ(o・ω・o)ｍ 哦 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "ε = = (づ′▽`)づ",
+    "name": "跑 · 卖萌·害羞·撒娇",
+    "search_text": "ε = = (づ′▽`)づ 跑 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(～o￣3￣)～",
+    "name": "飘 · 温柔·感谢·友好",
+    "search_text": "(～o￣3￣)～ 飘 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(。・・)ノ",
+    "name": "弱 · 卖萌·害羞·撒娇",
+    "search_text": "(。・・)ノ 弱 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(ノω",
+    "name": "讨厌 · 卖萌·害羞·撒娇",
+    "search_text": "(ノω 讨厌 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(/ω＼*)……… (/ω•＼*)",
+    "name": "偷看 · 卖萌·害羞·撒娇",
+    "search_text": "(/ω＼*)……… (/ω•＼*) 偷看 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "┬┴┤_•)",
+    "name": "偷窥 · 卖萌·害羞·撒娇",
+    "search_text": "┬┴┤_•) 偷窥 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(ﾉ*･ω･)ﾉ",
+    "name": "推到 · 卖萌·害羞·撒娇",
+    "search_text": "(ﾉ*･ω･)ﾉ 推到 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "（o´・ェ・｀o）",
+    "name": "无辜 · 卖萌·害羞·撒娇",
+    "search_text": "（o´・ェ・｀o） 无辜 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "谢啦!!☆⌒(*＾-゜)v",
+    "name": "谢 · 卖萌·害羞·撒娇",
+    "search_text": "谢啦!!☆⌒(*＾-゜)v 谢 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "( ╯▽╰)",
+    "name": "欣慰 · 卖萌·害羞·撒娇",
+    "search_text": "( ╯▽╰) 欣慰 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "o(〃'▽'〃)o",
+    "name": "真哒 · 卖萌·害羞·撒娇",
+    "search_text": "o(〃'▽'〃)o 真哒 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "^(*￣(oo)￣)^",
+    "name": "猪 · 萌宠·动物·拟态",
+    "search_text": "^(*￣(oo)￣)^ 猪 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ZZzz…(。-ω-)..ooO",
+    "name": "做梦 · 卖萌·害羞·撒娇",
+    "search_text": "zzzz…(。-ω-)..ooo 做梦 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "Ｏ(≧口≦)Ｏ",
+    "name": "啊啊啊 · 轻度惊讶·意外·感叹",
+    "search_text": "ｏ(≧口≦)ｏ 啊啊啊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "（*゜ー゜*）",
+    "name": "才知道 · 轻度惊讶·意外·感叹",
+    "search_text": "（*゜ー゜*） 才知道 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(￣△￣；)",
+    "name": "呆滞 · 轻度惊讶·意外·感叹",
+    "search_text": "(￣△￣；) 呆滞 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(。_。)",
+    "name": "打击 · 轻度惊讶·意外·感叹",
+    "search_text": "(。_。) 打击 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(⊙ˍ⊙)",
+    "name": "惊 · 轻度惊讶·意外·感叹",
+    "search_text": "(⊙ˍ⊙) 惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(っ °Д °;)っ",
+    "name": "惊 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(っ °д °;)っ 惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(｀д′*ノ)ノ",
+    "name": "惊 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(｀д′*ノ)ノ 惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "_( ﾟДﾟ)ﾉ",
+    "name": "举手 · 轻度惊讶·意外·感叹",
+    "search_text": "_( ﾟдﾟ)ﾉ 举手 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "￣△￣",
+    "name": "那个 · 轻度惊讶·意外·感叹",
+    "search_text": "￣△￣ 那个 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "~(￣0￣)/",
+    "name": "神啊 · 轻度惊讶·意外·感叹",
+    "search_text": "~(￣0￣)/ 神啊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(￣m￣）",
+    "name": "是吗 · 轻度惊讶·意外·感叹",
+    "search_text": "(￣m￣） 是吗 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "wow~ ⊙o⊙",
+    "name": "Wow · 轻度惊讶·意外·感叹",
+    "search_text": "wow~ ⊙o⊙ wow 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(*Φ皿Φ*)",
+    "name": "吓 · 轻度惊讶·意外·感叹",
+    "search_text": "(*φ皿φ*) 吓 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(・∀・(・∀・(・∀・*)",
+    "name": "咦 · 轻度惊讶·意外·感叹",
+    "search_text": "(・∀・(・∀・(・∀・*) 咦 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(○´･д･)ﾉ",
+    "name": "震惊 · 轻度惊讶·意外·感叹",
+    "search_text": "(○´･д･)ﾉ 震惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "∑(っ °Д °;)っ",
+    "name": "吓 · 轻度惊讶·意外·感叹",
+    "search_text": "∑(っ °д °;)っ 吓 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(・∀・*)",
+    "name": "咦~~ · 轻度惊讶·意外·感叹",
+    "search_text": "(・∀・*) 咦~~ 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "o((⊙﹏⊙))o.",
+    "name": "抖 · 轻度惊讶·意外·感叹",
+    "search_text": "o((⊙﹏⊙))o. 抖 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "┏┛墓┗┓...",
+    "name": "鬼 · 轻度惊讶·意外·感叹",
+    "search_text": "┏┛墓┗┓... 鬼 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "┐(T.T ) ( T.T) ノ",
+    "name": "没人 · 轻度惊讶·意外·感叹",
+    "search_text": "┐(t.t ) ( t.t) ノ 没人 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "||o(*°▽°*)o|Ю",
+    "name": "有人吗 · 轻度惊讶·意外·感叹",
+    "search_text": "||o(*°▽°*)o|ю 有人吗 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "▄︻┻┳═一…… ☆（>○",
+    "name": "爆头 · 喜悦·庆祝·欢呼",
+    "search_text": "▄︻┻┳═一…… ☆（>○ 爆头 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(⊙x⊙;)",
+    "name": "闭嘴 · 喜悦·庆祝·欢呼",
+    "search_text": "(⊙x⊙;) 闭嘴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "￣へ￣",
+    "name": "不开心 · 喜悦·庆祝·欢呼",
+    "search_text": "￣へ￣ 不开心 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（＃￣～￣＃）",
+    "name": "不满 · 喜悦·庆祝·欢呼",
+    "search_text": "（＃￣～￣＃） 不满 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*￣︿￣)",
+    "name": "不满 · 喜悦·庆祝·欢呼",
+    "search_text": "(*￣︿￣) 不满 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ（≧□≦）ノ",
+    "name": "不要啊 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ（≧□≦）ノ 不要啊 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "___*( ￣皿￣)/#____",
+    "name": "冲出 · 鼓励·加油·赞赏",
+    "search_text": "___*( ￣皿￣)/#____ 冲出 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "→)╥﹏╥)",
+    "name": "打脸 · 喜悦·庆祝·欢呼",
+    "search_text": "→)╥﹏╥) 打脸 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟДﾟ*)ﾉ",
+    "name": "反对 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟдﾟ*)ﾉ 反对 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┻━┻︵╰(‵□′)╯︵┻━┻",
+    "name": "翻桌子 · 喜悦·庆祝·欢呼",
+    "search_text": "┻━┻︵╰(‵□′)╯︵┻━┻ 翻桌子 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(〃＞目＜)",
+    "name": "可恶 · 喜悦·庆祝·欢呼",
+    "search_text": "(〃＞目＜) 可恶 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(///￣皿￣)○～",
+    "name": "哪里跑 · 喜悦·庆祝·欢呼",
+    "search_text": "(///￣皿￣)○～ 哪里跑 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "───Ｃε(┬﹏┬)3",
+    "name": "捏耳朵 · 喜悦·庆祝·欢呼",
+    "search_text": "───ｃε(┬﹏┬)3 捏耳朵 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "怒ε=怒ε=( o｀ω′)ノ",
+    "name": "怒 · 喜悦·庆祝·欢呼",
+    "search_text": "怒ε=怒ε=( o｀ω′)ノ 怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "▄︻┻┳═一……",
+    "name": "枪 · 喜悦·庆祝·欢呼",
+    "search_text": "▄︻┻┳═一…… 枪 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "φ(-ω-*)",
+    "name": "去 · 喜悦·庆祝·欢呼",
+    "search_text": "φ(-ω-*) 去 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬￣皿￣)＝○＃(￣＃)３￣)",
+    "name": "拳 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬￣皿￣)＝○＃(￣＃)３￣) 拳 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(-__-)=@))> o",
+    "name": "去死 · 喜悦·庆祝·欢呼",
+    "search_text": "(-__-)=@))> o 去死 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "▄︻┻┳═一∵∴∷∶∵",
+    "name": "散弹 · 喜悦·庆祝·欢呼",
+    "search_text": "▄︻┻┳═一∵∴∷∶∵ 散弹 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（｀へ´）",
+    "name": "生气 · 喜悦·庆祝·欢呼",
+    "search_text": "（｀へ´） 生气 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ｀д′)",
+    "name": "什么东西 · 喜悦·庆祝·欢呼",
+    "search_text": "( ｀д′) 什么东西 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "z(-_-z)).....((s-_-)s",
+    "name": "射拳 · 喜悦·庆祝·欢呼",
+    "search_text": "z(-_-z)).....((s-_-)s 射拳 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(σ｀д′)σ",
+    "name": "是不是你 · 喜悦·庆祝·欢呼",
+    "search_text": "(σ｀д′)σ 是不是你 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "～（□`）～",
+    "name": "逃跑 · 喜悦·庆祝·欢呼",
+    "search_text": "～（□`）～ 逃跑 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "＼(゜ロ＼)(／ロ゜)／",
+    "name": "讨厌 · 喜悦·庆祝·欢呼",
+    "search_text": "＼(゜ロ＼)(／ロ゜)／ 讨厌 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( >ρ",
+    "name": "吐 · 喜悦·庆祝·欢呼",
+    "search_text": "( >ρ 吐 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(゜▽゜　)－C",
+    "name": "拖走 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(゜▽゜　)－c 拖走 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯‵□′)╯炸弹！•••*～●",
+    "name": "炸弹 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯‵□′)╯炸弹！•••*～● 炸弹 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ˋ( ° ▽、° ) (o(￣▽￣///(斩!!)",
+    "name": "斩 · 喜悦·庆祝·欢呼",
+    "search_text": "ˋ( ° ▽、° ) (o(￣▽￣///(斩!!) 斩 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "W(￣_￣)W",
+    "name": "抓 · 喜悦·庆祝·欢呼",
+    "search_text": "w(￣_￣)w 抓 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬▔皿▔)",
+    "name": "怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬▔皿▔) 怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（╯‵□′）╯︵┴─┴",
+    "name": "掀桌子 · 喜悦·庆祝·欢呼",
+    "search_text": "（╯‵□′）╯︵┴─┴ 掀桌子 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┴─┴︵╰（‵□′╰）",
+    "name": "掀桌子 · 喜悦·庆祝·欢呼",
+    "search_text": "┴─┴︵╰（‵□′╰） 掀桌子 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（︶^︶）=凸",
+    "name": "比中指 · 喜悦·庆祝·欢呼",
+    "search_text": "（︶^︶）=凸 比中指 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（╯－_－）╯╧╧",
+    "name": "翻桌子 · 喜悦·庆祝·欢呼",
+    "search_text": "（╯－_－）╯╧╧ 翻桌子 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┴┴︵╰（‵□′）╯︵┴┴",
+    "name": "拆房子 · 喜悦·庆祝·欢呼",
+    "search_text": "┴┴︵╰（‵□′）╯︵┴┴ 拆房子 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬￣皿￣)凸",
+    "name": "鄙视你 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬￣皿￣)凸 鄙视你 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "-________-''",
+    "name": "呃呃呃 · 无奈·叹气·尴尬",
+    "search_text": "-________-'' 呃呃呃 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮（╯＿╰）╭",
+    "name": "没办法 · 无奈·叹气·尴尬",
+    "search_text": "╮（╯＿╰）╭ 没办法 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": ".....((/- -)/",
+    "name": "飘过 · 无奈·叹气·尴尬",
+    "search_text": ".....((/- -)/ 飘过 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮(╯▽╰)╭",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "╮(╯▽╰)╭ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "((*・∀・）ゞ→→",
+    "name": "这 · 无奈·叹气·尴尬",
+    "search_text": "((*・∀・）ゞ→→ 这 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( ＿ ＿)ノ｜",
+    "name": "扶墙 · 无奈·叹气·尴尬",
+    "search_text": "( ＿ ＿)ノ｜ 扶墙 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮（﹀_﹀）╭",
+    "name": "没辙 · 无奈·叹气·尴尬",
+    "search_text": "╮（﹀_﹀）╭ 没辙 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "◐▽◑",
+    "name": "不知道 · 思考·分析·推导",
+    "search_text": "◐▽◑ 不知道 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "┌|*´∀｀|┘",
+    "name": "愁 · 思考·分析·推导",
+    "search_text": "┌|*´∀｀|┘ 愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(・-・*)",
+    "name": "大概 · 无奈·叹气·尴尬",
+    "search_text": "(・-・*) 大概 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(￣▽￣ = ￣︿￣)",
+    "name": "分裂 · 无奈·叹气·尴尬",
+    "search_text": "(￣▽￣ = ￣︿￣) 分裂 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "..( ＿ ＿)ノ｜壁",
+    "name": "扶墙 · 无奈·叹气·尴尬",
+    "search_text": "..( ＿ ＿)ノ｜壁 扶墙 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "o(′益`)o",
+    "name": "纠结 · 无奈·叹气·尴尬",
+    "search_text": "o(′益`)o 纠结 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( -'`-; )",
+    "name": "困恼 · 日常·问候·休息",
+    "search_text": "( -'`-; ) 困恼 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "~%?…,# *'☆&℃?",
+    "name": "乱码 · 无奈·叹气·尴尬",
+    "search_text": "~%?…,# *'☆&℃? 乱码 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(-@y@)",
+    "name": "眼睛 · 无奈·叹气·尴尬",
+    "search_text": "(-@y@) 眼睛 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(((φ(◎ロ◎;)φ)))",
+    "name": "晕 · 无奈·叹气·尴尬",
+    "search_text": "(((φ(◎ロ◎;)φ))) 晕 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(=′ー`)",
+    "name": "这样么 · 无奈·叹气·尴尬",
+    "search_text": "(=′ー`) 这样么 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "o(￣┰￣*)ゞ",
+    "name": "不好意思挠头 · 歉意·鞠躬·求谅解",
+    "search_text": "o(￣┰￣*)ゞ 不好意思挠头 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "（。・＿・。）ﾉ",
+    "name": "诚恳致歉 · 歉意·鞠躬·求谅解",
+    "search_text": "（。・＿・。）ﾉ 诚恳致歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "（＞人＜；）",
+    "name": "双手合十抱歉 · 歉意·鞠躬·求谅解",
+    "search_text": "（＞人＜；） 双手合十抱歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "( ￣ ￣)σ…( ＿ ＿)ノ｜壁",
+    "name": "反省 · 歉意·鞠躬·求谅解",
+    "search_text": "( ￣ ￣)σ…( ＿ ＿)ノ｜壁 反省 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "…〒_〒…‵ｏ′-一┳═┻︻▄",
+    "name": "自杀 · 歉意·鞠躬·求谅解",
+    "search_text": "…〒_〒…‵ｏ′-一┳═┻︻▄ 自杀 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "〈（_　_）〉",
+    "name": "鞠躬 · 歉意·鞠躬·求谅解",
+    "search_text": "〈（_　_）〉 鞠躬 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "Orz",
+    "name": "Orz · 歉意·鞠躬·求谅解",
+    "search_text": "orz orz 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "囧rz",
+    "name": "囧认栽 · 歉意·鞠躬·求谅解",
+    "search_text": "囧rz 囧认栽 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "（ﾉ´д｀）",
+    "name": "囧 · 歉意·鞠躬·求谅解",
+    "search_text": "（ﾉ´д｀） 囧 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "U•ェ•*U",
+    "name": "忠诚小狗 · 萌宠·动物·拟态",
+    "search_text": "u•ェ•*u 忠诚小狗 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "（￣。。￣）",
+    "name": "河马 · 萌宠·动物·拟态",
+    "search_text": "（￣。。￣） 河马 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(°°)～　(°°)～",
+    "name": "蝌蚪 · 萌宠·动物·拟态",
+    "search_text": "(°°)～　(°°)～ 蝌蚪 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "m( =∩王∩= )m",
+    "name": "老虎 · 萌宠·动物·拟态",
+    "search_text": "m( =∩王∩= )m 老虎 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "o(=•ェ•=)m",
+    "name": "猫 · 萌宠·动物·拟态",
+    "search_text": "o(=•ェ•=)m 猫 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ヽ(=^･ω･^=)丿",
+    "name": "高兴猫 · 萌宠·动物·拟态",
+    "search_text": "ヽ(=^･ω･^=)丿 高兴猫 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "~o( =∩ω∩= )m",
+    "name": "喵 · 萌宠·动物·拟态",
+    "search_text": "~o( =∩ω∩= )m 喵 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "--(˙˙)--",
+    "name": "鸟 · 萌宠·动物·拟态",
+    "search_text": "--(˙˙)-- 鸟 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( ఠൠఠ )ﾉ",
+    "name": "牛 · 萌宠·动物·拟态",
+    "search_text": "( ఠൠఠ )ﾉ 牛 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "_(:驴」∠)_",
+    "name": "躺枪驴 · 萌宠·动物·拟态",
+    "search_text": "_(:驴」∠)_ 躺枪驴 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "_(:马」∠)_",
+    "name": "躺枪马 · 萌宠·动物·拟态",
+    "search_text": "_(:马」∠)_ 躺枪马 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(+(工)+╬)",
+    "name": "熊 · 萌宠·动物·拟态",
+    "search_text": "(+(工)+╬) 熊 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(￣(●●)￣)",
+    "name": "猪 · 萌宠·动物·拟态",
+    "search_text": "(￣(●●)￣) 猪 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(:◎)≡",
+    "name": "章鱼 · 萌宠·动物·拟态",
+    "search_text": "(:◎)≡ 章鱼 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(..)nnn",
+    "name": "毛毛虫 · 萌宠·动物·拟态",
+    "search_text": "(..)nnn 毛毛虫 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "≡[。。]≡",
+    "name": "螃蟹 · 萌宠·动物·拟态",
+    "search_text": "≡[。。]≡ 螃蟹 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(/▽＼)",
+    "name": "掩面羞涩 · 卖萌·害羞·撒娇",
+    "search_text": "(/▽＼) 掩面羞涩 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(。﹏。)",
+    "name": "低头羞怯 · 卖萌·害羞·撒娇",
+    "search_text": "(。﹏。) 低头羞怯 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(′▽`〃)",
+    "name": "害羞 · 卖萌·害羞·撒娇",
+    "search_text": "(′▽`〃) 害羞 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "○( ＾皿＾)っHiahia…",
+    "name": "Hiahia · 卖萌·害羞·撒娇",
+    "search_text": "○( ＾皿＾)っhiahia… hiahia 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "o(*////▽////*)q",
+    "name": "Shy · 卖萌·害羞·撒娇",
+    "search_text": "o(*////▽////*)q shy 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "つ﹏⊂",
+    "name": "捂脸 · 卖萌·害羞·撒娇",
+    "search_text": "つ﹏⊂ 捂脸 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "◕ฺ‿◕ฺ✿ฺ)",
+    "name": "害羞 · 卖萌·害羞·撒娇",
+    "search_text": "◕ฺ‿◕ฺ✿ฺ) 害羞 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(#／。＼#)",
+    "name": "掩面 · 卖萌·害羞·撒娇",
+    "search_text": "(#／。＼#) 掩面 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(*/ω＼*))",
+    "name": "掩面 · 卖萌·害羞·撒娇",
+    "search_text": "(*/ω＼*)) 掩面 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "(￣ ‘i ￣;)",
+    "name": "鼻涕 · 安慰·抚慰·共情",
+    "search_text": "(￣ ‘i ￣;) 鼻涕 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "||Φ|(|T|Д|T|)|Φ||",
+    "name": "放我出去 · 安慰·抚慰·共情",
+    "search_text": "||φ|(|t|д|t|)|φ|| 放我出去 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(;´༎ຶД༎ຶ`)",
+    "name": "哭死 · 安慰·抚慰·共情",
+    "search_text": "(;´༎ຶд༎ຶ`) 哭死 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "ε(┬┬﹏┬┬)3",
+    "name": "苦命 · 安慰·抚慰·共情",
+    "search_text": "ε(┬┬﹏┬┬)3 苦命 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "〒▽〒",
+    "name": "内牛满面 · 鼓励·加油·赞赏",
+    "search_text": "〒▽〒 内牛满面 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "o(TヘTo)",
+    "name": "哭 · 安慰·抚慰·共情",
+    "search_text": "o(tヘto) 哭 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "╥﹏╥...",
+    "name": "委屈 · 安慰·抚慰·共情",
+    "search_text": "╥﹏╥... 委屈 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(个_个)",
+    "name": "哭 · 安慰·抚慰·共情",
+    "search_text": "(个_个) 哭 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "o(╥﹏╥)o",
+    "name": "痛哭 · 安慰·抚慰·共情",
+    "search_text": "o(╥﹏╥)o 痛哭 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(*￣3￣)╭",
+    "name": "飞吻 · 温柔·感谢·友好",
+    "search_text": "(*￣3￣)╭ 飞吻 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(ToT)/~~~",
+    "name": "挥手帕 · 温柔·感谢·友好",
+    "search_text": "(tot)/~~~ 挥手帕 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "!(*￣(￣　*)",
+    "name": "Kiss · 温柔·感谢·友好",
+    "search_text": "!(*￣(￣　*) kiss 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*╯3╰)",
+    "name": "Mua · 温柔·感谢·友好",
+    "search_text": "(*╯3╰) mua 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "o(*￣3￣)o",
+    "name": "亲亲 · 温柔·感谢·友好",
+    "search_text": "o(*￣3￣)o 亲亲 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(っ´Ι`)っ",
+    "name": "亲亲你 · 温柔·感谢·友好",
+    "search_text": "(っ´ι`)っ 亲亲你 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*￣;(￣ *)",
+    "name": "吻别 · 温柔·感谢·友好",
+    "search_text": "(*￣;(￣ *) 吻别 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "（*＾3＾）/～☆",
+    "name": "脸红亲亲 · 温柔·感谢·友好",
+    "search_text": "（*＾3＾）/～☆ 脸红亲亲 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "（＠ーεー＠）",
+    "name": "么么哒 · 温柔·感谢·友好",
+    "search_text": "（＠ーεー＠） 么么哒 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "～(^з^)-☆",
+    "name": "亲嘴 · 温柔·感谢·友好",
+    "search_text": "～(^з^)-☆ 亲嘴 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(+.+)(-.-)(_ _) ..zzZZ",
+    "name": "不行了 · 歉意·鞠躬·求谅解",
+    "search_text": "(+.+)(-.-)(_ _) ..zzzz 不行了 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(_ _)( - . - )(~O~)( - . - )",
+    "name": "打哈欠 · 歉意·鞠躬·求谅解",
+    "search_text": "(_ _)( - . - )(~o~)( - . - ) 打哈欠 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(￣o￣) . z Z",
+    "name": "困倦入眠 · 日常·问候·休息",
+    "search_text": "(￣o￣) . z z 困倦入眠 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(p.-)(p.-)(p.-)",
+    "name": "困死了 · 日常·问候·休息",
+    "search_text": "(p.-)(p.-)(p.-) 困死了 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(o-ωｑ)).oO 困",
+    "name": "困死了 · 日常·问候·休息",
+    "search_text": "(o-ωｑ)).oo 困 困死了 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(つω｀)～",
+    "name": "眠 · 日常·问候·休息",
+    "search_text": "(つω｀)～ 眠 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "☆{{{Д}}} ☆!!",
+    "name": "闹钟 · 日常·问候·休息",
+    "search_text": "☆{{{д}}} ☆!! 闹钟 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "※=○☆(＿＿*)Ｚｚｚ",
+    "name": "起床 · 日常·问候·休息",
+    "search_text": "※=○☆(＿＿*)ｚｚｚ 起床 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "￣O￣)ノ",
+    "name": "晚上好 · 日常·问候·休息",
+    "search_text": "￣o￣)ノ 晚上好 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(∪｡∪)｡｡｡zzz",
+    "name": "打呼噜 · 日常·问候·休息",
+    "search_text": "(∪｡∪)｡｡｡zzz 打呼噜 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "（)´д`(）",
+    "name": "瞌睡 · 日常·问候·休息",
+    "search_text": "（)´д`(） 瞌睡 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(。＿　＿)。ZZzzzz…",
+    "name": "晚安 · 日常·问候·休息",
+    "search_text": "(。＿　＿)。zzzzzz… 晚安 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(ㄏ￣▽￣)ㄏbyeㄟ(￣▽￣ㄟ)",
+    "name": "拜拜 · 日常·问候·休息",
+    "search_text": "(ㄏ￣▽￣)ㄏbyeㄟ(￣▽￣ㄟ) 拜拜 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "₍₍ ◝(　ﾟ∀ ﾟ )◟⁾⁾不送",
+    "name": "不送 · 日常·问候·休息",
+    "search_text": "₍₍ ◝(　ﾟ∀ ﾟ )◟⁾⁾不送 不送 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "( ´･･)ﾉ(._.`)",
+    "name": "分手 · 日常·问候·休息",
+    "search_text": "( ´･･)ﾉ(._.`) 分手 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "『家』 ～o(▽｀ o) =3",
+    "name": "回家 · 日常·问候·休息",
+    "search_text": "『家』 ～o(▽｀ o) =3 回家 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "＼（＾∀＾）メ（＾∀＾）ノ",
+    "name": "回见 · 日常·问候·休息",
+    "search_text": "＼（＾∀＾）メ（＾∀＾）ノ 回见 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "（＾∀＾●）ﾉｼ",
+    "name": "明天见 · 日常·问候·休息",
+    "search_text": "（＾∀＾●）ﾉｼ 明天见 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(*￣▽￣)(￣▽:;.…::;",
+    "name": "闪人 · 日常·问候·休息",
+    "search_text": "(*￣▽￣)(￣▽:;.…::; 闪人 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(。・_・)/~~~",
+    "name": "再见 · 日常·问候·休息",
+    "search_text": "(。・_・)/~~~ 再见 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "┏(＾0＾)┛",
+    "name": "再见 · 日常·问候·休息",
+    "search_text": "┏(＾0＾)┛ 再见 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "( ﾟдﾟ)つBye",
+    "name": "走啦 · 日常·问候·休息",
+    "search_text": "( ﾟдﾟ)つbye 走啦 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(o´ω`o)ﾉ",
+    "name": "拜托啦 · 日常·问候·休息",
+    "search_text": "(o´ω`o)ﾉ 拜托啦 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "（ ゜ρ゜)ノ",
+    "name": "保重 · 日常·问候·休息",
+    "search_text": "（ ゜ρ゜)ノ 保重 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "\\(@^０^@)/★",
+    "name": "走前拥抱 · 日常·问候·休息",
+    "search_text": "\\(@^０^@)/★ 走前拥抱 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(o≖◡≖)",
+    "name": "狡黠窃笑 · 幽默·傲娇·打趣",
+    "search_text": "(o≖◡≖) 狡黠窃笑 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(๐॔˃̶ᗜ˂̶๐॓)",
+    "name": "蠢哭 · 安慰·抚慰·共情",
+    "search_text": "(๐॔˃̶ᗜ˂̶๐॓) 蠢哭 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "ʅ（´◔౪◔）ʃ",
+    "name": "嘚瑟 · 幽默·傲娇·打趣",
+    "search_text": "ʅ（´◔౪◔）ʃ 嘚瑟 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(‾◡◝)",
+    "name": "骄傲 · 幽默·傲娇·打趣",
+    "search_text": "(‾◡◝) 骄傲 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "( ͡° ͜ʖ ͡°)",
+    "name": "矜持 · 幽默·傲娇·打趣",
+    "search_text": "( ͡° ͜ʖ ͡°) 矜持 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "（ ￣ー￣）",
+    "name": "冷笑 · 幽默·傲娇·打趣",
+    "search_text": "（ ￣ー￣） 冷笑 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "┌( ´_ゝ` )┐",
+    "name": "冷艳 · 幽默·傲娇·打趣",
+    "search_text": "┌( ´_ゝ` )┐ 冷艳 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(´ｰ∀ｰ`)",
+    "name": "轻蔑 · 幽默·傲娇·打趣",
+    "search_text": "(´ｰ∀ｰ`) 轻蔑 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(☆-ｖ-)",
+    "name": "无视 · 幽默·傲娇·打趣",
+    "search_text": "(☆-ｖ-) 无视 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(－∀＝)",
+    "name": "无言 · 无奈·叹气·尴尬",
+    "search_text": "(－∀＝) 无言 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(◡ᴗ◡✿)",
+    "name": "自恋 · 幽默·傲娇·打趣",
+    "search_text": "(◡ᴗ◡✿) 自恋 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "*(੭*ˊᵕˋ)੭*ଘ",
+    "name": "自拍 · 幽默·傲娇·打趣",
+    "search_text": "*(੭*ˊᵕˋ)੭*ଘ 自拍 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ψ(｀∇´)ψ",
+    "name": "吃点 · 喜悦·庆祝·欢呼",
+    "search_text": "ψ(｀∇´)ψ 吃点 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(((((ヾ(　o=^•ェ•)o　┏━┓",
+    "name": "吃饭 · 萌宠·动物·拟态",
+    "search_text": "(((((ヾ(　o=^•ェ•)o　┏━┓ 吃饭 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(*￣ω￣)",
+    "name": "吃了 · 喜悦·庆祝·欢呼",
+    "search_text": "(*￣ω￣) 吃了 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯▽╰ )好香~~",
+    "name": "好香 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯▽╰ )好香~~ 好香 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(￣～￣) 嚼！",
+    "name": "嚼 · 喜悦·庆祝·欢呼",
+    "search_text": "(￣～￣) 嚼！ 嚼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "0＾）吞！",
+    "name": "吞 · 喜悦·庆祝·欢呼",
+    "search_text": "0＾）吞！ 吞 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( *^-^)ρ(^0^* )",
+    "name": "喂饭 · 喜悦·庆祝·欢呼",
+    "search_text": "( *^-^)ρ(^0^* ) 喂饭 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( *⊙~⊙)",
+    "name": "噎死 · 喜悦·庆祝·欢呼",
+    "search_text": "( *⊙~⊙) 噎死 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "[噎住]( *⊙~⊙)",
+    "name": "噎住 · 喜悦·庆祝·欢呼",
+    "search_text": "[噎住]( *⊙~⊙) 噎住 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（￣ー￣（＿ ＿（￣ー￣",
+    "name": "点头 · 幽默·傲娇·打趣",
+    "search_text": "（￣ー￣（＿ ＿（￣ー￣ 点头 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "（￣ー￣）ノ~~",
+    "name": "嗯哼 · 幽默·傲娇·打趣",
+    "search_text": "（￣ー￣）ノ~~ 嗯哼 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "( σ'ω')σ",
+    "name": "告状 · 幽默·傲娇·打趣",
+    "search_text": "( σ'ω')σ 告状 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(＠￣ー￣＠)",
+    "name": "哼哼 · 幽默·傲娇·打趣",
+    "search_text": "(＠￣ー￣＠) 哼哼 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "┗|*｀0′*|┛",
+    "name": "肌肉 · 幽默·傲娇·打趣",
+    "search_text": "┗|*｀0′*|┛ 肌肉 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "o(*^▽^*)┛",
+    "name": "举手 · 幽默·傲娇·打趣",
+    "search_text": "o(*^▽^*)┛ 举手 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(oﾟvﾟ)ノ",
+    "name": "明白 · 幽默·傲娇·打趣",
+    "search_text": "(oﾟvﾟ)ノ 明白 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "|(•_•) |•_•) |_•) |•) | )",
+    "name": "我闪 · 幽默·傲娇·打趣",
+    "search_text": "|(•_•) |•_•) |_•) |•) | ) 我闪 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(ﾟｰﾟ)",
+    "name": "是啊 · 幽默·傲娇·打趣",
+    "search_text": "(ﾟｰﾟ) 是啊 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ヾ(＠⌒ー⌒＠)ノ",
+    "name": "是啊是啊 · 幽默·傲娇·打趣",
+    "search_text": "ヾ(＠⌒ー⌒＠)ノ 是啊是啊 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "´･∀･)乂(･∀･｀",
+    "name": "死吧 · 幽默·傲娇·打趣",
+    "search_text": "´･∀･)乂(･∀･｀ 死吧 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(。・∀・)ノ",
+    "name": "同意 · 幽默·傲娇·打趣",
+    "search_text": "(。・∀・)ノ 同意 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "┏┛墓┗┓...(((m -__-)m",
+    "name": "鬼 · 轻度惊讶·意外·感叹",
+    "search_text": "┏┛墓┗┓...(((m -__-)m 鬼 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "━((*′д｀)爻(′д｀*))━!!!!",
+    "name": "怕怕 · 喜悦·庆祝·欢呼",
+    "search_text": "━((*′д｀)爻(′д｀*))━!!!! 怕怕 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(￣︿￣　)—C",
+    "name": "小黑屋 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(￣︿￣　)—c 小黑屋 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "||o(*°▽°*)o|Ю [有人吗?]",
+    "name": "有人吗 · 喜悦·庆祝·欢呼",
+    "search_text": "||o(*°▽°*)o|ю [有人吗?] 有人吗 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "……]((o_ _)'彡☆",
+    "name": "跌倒 · 无奈·叹气·尴尬",
+    "search_text": "……]((o_ _)'彡☆ 跌倒 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "|(*′口`)",
+    "name": "汗死 · 无奈·叹气·尴尬",
+    "search_text": "|(*′口`) 汗死 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(lll￢ω￢)",
+    "name": "汗死 · 无奈·叹气·尴尬",
+    "search_text": "(lll￢ω￢) 汗死 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "_〆(´Д｀ )",
+    "name": "画圈 · 无奈·叹气·尴尬",
+    "search_text": "_〆(´д｀ ) 画圈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ε=ε=ε=(~￣▽￣)~",
+    "name": "跑 · 无奈·叹气·尴尬",
+    "search_text": "ε=ε=ε=(~￣▽￣)~ 跑 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "━━∑(￣□￣*|||━━",
+    "name": "石化 · 无奈·叹气·尴尬",
+    "search_text": "━━∑(￣□￣*|||━━ 石化 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "…（⊙＿⊙；）…",
+    "name": "逃 · 无奈·叹气·尴尬",
+    "search_text": "…（⊙＿⊙；）… 逃 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ε=ε=ε=┏(゜ロ゜;)┛",
+    "name": "逃 · 无奈·叹气·尴尬",
+    "search_text": "ε=ε=ε=┏(゜ロ゜;)┛ 逃 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "d=====(￣▽￣*)b",
+    "name": "大拇指点赞 · 鼓励·加油·赞赏",
+    "search_text": "d=====(￣▽￣*)b 大拇指点赞 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "＜（＾－＾）＞",
+    "name": "认可肯定 · 鼓励·加油·赞赏",
+    "search_text": "＜（＾－＾）＞ 认可肯定 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "[]~(￣▽￣)~*",
+    "name": "举杯致敬 · 鼓励·加油·赞赏",
+    "search_text": "[]~(￣▽￣)~* 举杯致敬 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(*￣▽)u┌┐ ｄ(▽￣*)",
+    "name": "高 · 鼓励·加油·赞赏",
+    "search_text": "(*￣▽)u┌┐ ｄ(▽￣*) 高 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(ง •_•)ง",
+    "name": "加油 · 鼓励·加油·赞赏",
+    "search_text": "(ง •_•)ง 加油 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "ヾ(●゜ⅴ゜)ﾉ",
+    "name": "就是 · 鼓励·加油·赞赏",
+    "search_text": "ヾ(●゜ⅴ゜)ﾉ 就是 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "（。＾▽＾）",
+    "name": "厉害 · 鼓励·加油·赞赏",
+    "search_text": "（。＾▽＾） 厉害 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "ヽ(￣ω￣(￣ω￣〃)ゝ",
+    "name": "义气 · 鼓励·加油·赞赏",
+    "search_text": "ヽ(￣ω￣(￣ω￣〃)ゝ 义气 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "（；´д｀）ゞ",
+    "name": "悲 · 安慰·抚慰·共情",
+    "search_text": "（；´д｀）ゞ 悲 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(＞﹏＜)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(＞﹏＜) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "_____λ......___丬 ～～",
+    "name": "别走啊 · 安慰·抚慰·共情",
+    "search_text": "_____λ......___丬 ～～ 别走啊 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "( *^-^)ρ(*╯^╰)",
+    "name": "不吃 · 安慰·抚慰·共情",
+    "search_text": "( *^-^)ρ(*╯^╰) 不吃 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(┬＿┬)↘",
+    "name": "跌 · 安慰·抚慰·共情",
+    "search_text": "(┬＿┬)↘ 跌 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(#｀-_ゝ-)",
+    "name": "低落 · 安慰·抚慰·共情",
+    "search_text": "(#｀-_ゝ-) 低落 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "（。－_－。）",
+    "name": "呼 · 安慰·抚慰·共情",
+    "search_text": "（。－_－。） 呼 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(ρ_・).。",
+    "name": "累 · 安慰·抚慰·共情",
+    "search_text": "(ρ_・).。 累 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(′д｀ )…彡…彡",
+    "name": "衰 · 安慰·抚慰·共情",
+    "search_text": "(′д｀ )…彡…彡 衰 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "( ′ 3`) sigh~",
+    "name": "叹气 · 安慰·抚慰·共情",
+    "search_text": "( ′ 3`) sigh~ 叹气 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "[喝西北风](　′Д`)彡",
+    "name": "西北风 · 安慰·抚慰·共情",
+    "search_text": "[喝西北风](　′д`)彡 西北风 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(￫ܫ￩)",
+    "name": "鬼脸 · 轻度惊讶·意外·感叹",
+    "search_text": "(￫ܫ￩) 鬼脸 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(❤´艸｀❤)",
+    "name": "花痴 · 温柔·感谢·友好",
+    "search_text": "(❤´艸｀❤) 花痴 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "（〃｀ 3′〃）",
+    "name": "撅嘴 · 幽默·傲娇·打趣",
+    "search_text": "（〃｀ 3′〃） 撅嘴 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ᕕ( ᐛ )ᕗ",
+    "name": "赖 · 幽默·傲娇·打趣",
+    "search_text": "ᕕ( ᐛ )ᕗ 赖 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "=└(┐卍^o^)卍",
+    "name": "闪 · 幽默·傲娇·打趣",
+    "search_text": "=└(┐卍^o^)卍 闪 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ԅ(¯﹃¯ԅ)",
+    "name": "使坏 · 幽默·傲娇·打趣",
+    "search_text": "ԅ(¯﹃¯ԅ) 使坏 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(☄⊙ω⊙)☄",
+    "name": "吓 · 轻度惊讶·意外·感叹",
+    "search_text": "(☄⊙ω⊙)☄ 吓 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "( ‵▽′)ψ",
+    "name": "邪恶 · 幽默·傲娇·打趣",
+    "search_text": "( ‵▽′)ψ 邪恶 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "ლ(•̀ _ •́ ლ)",
+    "name": "阿信 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ(•̀ _ •́ ლ) 阿信 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(눈_눈)",
+    "name": "兵长 · 喜悦·庆祝·欢呼",
+    "search_text": "(눈_눈) 兵长 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( *・ω・)✄╰ひ╯",
+    "name": "剪刀 · 喜悦·庆祝·欢呼",
+    "search_text": "( *・ω・)✄╰ひ╯ 剪刀 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "咳咳＞＜",
+    "name": "咳咳 · 喜悦·庆祝·欢呼",
+    "search_text": "咳咳＞＜ 咳咳 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(．． )…",
+    "name": "那个 · 喜悦·庆祝·欢呼",
+    "search_text": "(．． )… 那个 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ˘•ω•˘ )ง⁽˙³˙⁾",
+    "name": "姚明与郭敬明 · 喜悦·庆祝·欢呼",
+    "search_text": "( ˘•ω•˘ )ง⁽˙³˙⁾ 姚明与郭敬明 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（¯﹃¯）",
+    "name": "口水 · 喜悦·庆祝·欢呼",
+    "search_text": "（¯﹃¯） 口水 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（￣︶￣）↗",
+    "name": "出发 · 喜悦·庆祝·欢呼",
+    "search_text": "（￣︶￣）↗ 出发 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "b（￣▽￣）d",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "b（￣▽￣）d 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（～￣▽￣～）",
+    "name": "装傻 · 喜悦·庆祝·欢呼",
+    "search_text": "（～￣▽￣～） 装傻 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（￣ c￣）y-～",
+    "name": "抽烟 · 幽默·傲娇·打趣",
+    "search_text": "（￣ c￣）y-～ 抽烟 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "\\(\"▔□▔)/\\(\"▔□▔)/",
+    "name": "冷场 · 喜悦·庆祝·欢呼",
+    "search_text": "\\(\"▔□▔)/\\(\"▔□▔)/ 冷场 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(✧◡✧)",
+    "name": "星星眼 · 喜悦·庆祝·欢呼",
+    "search_text": "(✧◡✧) 星星眼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "|柱|ωﾟ)---c<` дﾟ)!",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "|柱|ωﾟ)---c<` дﾟ)! 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(･ω´･ )",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(･ω´･ ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "Σ(ﾟωﾟ)",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(ﾟωﾟ) 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(｀L_｀ )",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(｀l_｀ ) 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(*ﾟдﾟﾉ)ﾉ",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(*ﾟдﾟﾉ)ﾉ 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(lliдﾟﾉ)ﾉ",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(lliдﾟﾉ)ﾉ 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(゜皿。)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(゜皿。) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(っ・Д・)っ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(っ・д・)っ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(((ﾟДﾟ;)))",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(((ﾟдﾟ;))) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ゝ∀･)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(ゝ∀･) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟ∀。)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟ∀。) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ξ( ✿＞◡❛)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ξ( ✿＞◡❛) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(`・ω・´)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(`・ω・´) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´・ω・`)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(´・ω・`) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(;ﾟдﾟ)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(;ﾟдﾟ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "σ`∀´)σ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "σ`∀´)σ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "_(:3 」∠ )_",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "_(:3 」∠ )_ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "Σ(ﾟдﾟ)",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(ﾟдﾟ) 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(つд⊂)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(つд⊂) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(^_っ^)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(^_っ^) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(☉д⊙)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(☉д⊙) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ﾟÅﾟ)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ﾟåﾟ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┌(┌^o^)┐",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "┌(┌^o^)┐ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟдﾟ≡ﾟдﾟ)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟдﾟ≡ﾟдﾟ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ◕‿‿◕ )",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "( ◕‿‿◕ ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ಠ_ಠ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ಠ_ಠ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(́◉◞౪◟◉‵)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(́◉◞౪◟◉‵) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(́◕◞౪◟◕‵)ﾉ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(́◕◞౪◟◕‵)ﾉ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ლ｜＾Д＾ლ｜",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ｜＾д＾ლ｜ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(¦3[▓▓]",
+    "name": "裹被晚安 · 日常·问候·休息",
+    "search_text": "(¦3[▓▓] 裹被晚安 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(:3[___]=",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(:3[___]= 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(:3[__]4",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(:3[__]4 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "థ౪థ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "థ౪థ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（ ´☣///_ゝ///☣｀）",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "（ ´☣///_ゝ///☣｀） 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "öㅅö",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "öㅅö 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ﾟДﾟ)σ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "( ﾟдﾟ)σ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "Σ( ° △ °)",
+    "name": "常用 · 轻度惊讶·意外·感叹",
+    "search_text": "σ( ° △ °) 常用 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "_(√ ζ ε:)_",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "_(√ ζ ε:)_ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ￣ 3￣)y▂ξ",
+    "name": "常用 · 温柔·感谢·友好",
+    "search_text": "( ￣ 3￣)y▂ξ 常用 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "( ☉_☉)≡☞o────★°",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "( ☉_☉)≡☞o────★° 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "O-(///￣皿￣)☞ ─═≡☆゜★█▇▆▅▄▃▂＿",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "o-(///￣皿￣)☞ ─═≡☆゜★█▇▆▅▄▃▂＿ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(σ′▽‵)′▽‵)σ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(σ′▽‵)′▽‵)σ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "◑ω◐",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "◑ω◐ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯‵□′)╯︵┴─┴",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯‵□′)╯︵┴─┴ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "σ ﾟ∀ ﾟ) ﾟ∀ﾟ)σ 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ლ(╹◡╹ლ)",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ(╹◡╹ლ) 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾒ3[____]",
+    "name": "常用 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾒ3[____] 常用 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟ∀ﾟ)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟ∀ﾟ) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*ﾟ∀ﾟ*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*ﾟ∀ﾟ*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*´▽`*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*´▽`*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(●´∀`●)ﾉ",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(●´∀`●)ﾉ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*´艸`*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*´艸`*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*‘ v`*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*‘ v`*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(^u^)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(^u^) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(^y^)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(^y^) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾉ>ω<)ﾉ",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾉ>ω<)ﾉ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(｡A｡)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(｡a｡) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾉ∀`*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾉ∀`*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*’ｰ’*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*’ｰ’*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "d(`･∀･)b",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "d(`･∀･)b 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(,,・ω・,,)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(,,・ω・,,) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(((ﾟдﾟ)))",
+    "name": "高兴 · 轻度惊讶·意外·感叹",
+    "search_text": "(((ﾟдﾟ))) 高兴 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(｡◕∀◕｡)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(｡◕∀◕｡) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(」・ω・)」うー！(／・ω・)／にゃー！",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(」・ω・)」うー！(／・ω・)／にゃー！ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+    "name": "洒花庆祝 · 喜悦·庆祝·欢呼",
+    "search_text": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡ 洒花庆祝 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ξ( ✿＞◡❛)▄︻▇▇〓▄︻┻┳═一",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "ξ( ✿＞◡❛)▄︻▇▇〓▄︻┻┳═一 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(✪ω✪)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(✪ω✪) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(⁰▿⁰)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(⁰▿⁰) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(・×・´)ゞ",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(・×・´)ゞ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(o´罒`o)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(o´罒`o) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "☆⌒(*^-゜)v",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "☆⌒(*^-゜)v 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(灬ºωº灬)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(灬ºωº灬) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´///☁///`)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(´///☁///`) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(❛◡❛✿)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(❛◡❛✿) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑• . •๑)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑• . •๑) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ㅅ˘ㅂ˘)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ㅅ˘ㅂ˘) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "٩(｡・ω・｡)﻿و",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "٩(｡・ω・｡)﻿و 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*ˇωˇ*人)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(*ˇωˇ*人) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "☆^(ｏ´Ф∇Ф)o",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "☆^(ｏ´ф∇ф)o 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(,,ﾟДﾟ)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(,,ﾟдﾟ) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "o(☆Ф∇Ф☆)o",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "o(☆ф∇ф☆)o 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( • ̀ω•́ )",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "( • ̀ω•́ ) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟω´)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟω´) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(●｀ 艸 ´)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(●｀ 艸 ´) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(㊤V㊤*)ﾉ",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(㊤v㊤*)ﾉ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "＼(●´ϖ`●)／",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "＼(●´ϖ`●)／ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(•ㅂ•)/",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(•ㅂ•)/ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( *´◒`*)",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "( *´◒`*) 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "٩(๑•̀ω•́๑)۶",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "٩(๑•̀ω•́๑)۶ 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(＊゜ー゜)b",
+    "name": "高兴 · 喜悦·庆祝·欢呼",
+    "search_text": "(＊゜ー゜)b 高兴 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(`3´)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(`3´) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟ皿ﾟﾒ)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟ皿ﾟﾒ) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾒ ﾟ皿ﾟ)ﾒ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾒ ﾟ皿ﾟ)ﾒ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(┛`д´)┛",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(┛`д´)┛ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(#`Д´)ﾉ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(#`д´)ﾉ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(#`皿´)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(#`皿´) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(-`ェ´-╬)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(-`ェ´-╬) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬ﾟдﾟ)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬ﾟдﾟ) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(`д´)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(`д´) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(#`Д´)ﾉ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(#`д´)ﾉ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬☉д⊙)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬☉д⊙) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(／‵Д′)／~ ╧╧",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(／‵д′)／~ ╧╧ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(　◞≼☸≽◟ ._ゝ◞≼☸≽◟)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(　◞≼☸≽◟ ._ゝ◞≼☸≽◟) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "⊙谷⊙",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "⊙谷⊙ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(`Д´)ノ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(`д´)ノ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬ﾟдﾟ)▄︻┻┳═一",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬ﾟдﾟ)▄︻┻┳═一 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "٩(ŏ﹏ŏ、)۶",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "٩(ŏ﹏ŏ、)۶ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（ ´ﾟ,_」ﾟ）ﾊﾞｶｼﾞｬﾈｰﾉ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "（ ´ﾟ,_」ﾟ）ﾊﾞｶｼﾞｬﾈｰﾉ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬ﾟ ◣ ﾟ)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬ﾟ ◣ ﾟ) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(☄◣ω◢)☄",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(☄◣ω◢)☄ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ಠ益ಠ)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ಠ益ಠ) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾒﾟДﾟ)ﾒ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾒﾟдﾟ)ﾒ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(`へ´≠)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(`へ´≠) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(・`ω´・)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(・`ω´・) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(#ﾟ⊿`)凸",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(#ﾟ⊿`)凸 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "╯-____-)╯~═╩════╩═",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "╯-____-)╯~═╩════╩═ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*≥▽≤)ツ┏━┓",
+    "name": "愤怒 · 幽默·傲娇·打趣",
+    "search_text": "(*≥▽≤)ツ┏━┓ 愤怒 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "( ╯' - ')╯ ┻━┻",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "( ╯' - ')╯ ┻━┻ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯°O°)╯┻━┻",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯°o°)╯┻━┻ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯°Д°)╯ ┻━┻",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯°д°)╯ ┻━┻ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑•ૅω•´๑)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑•ૅω•´๑) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯ŏ益ŏ)╯︵(ヽo□o)ヽ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯ŏ益ŏ)╯︵(ヽo□o)ヽ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬▼дﾟ)▄︻┻┳═一",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬▼дﾟ)▄︻┻┳═一 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╯•̀ὤ•́)╯",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╯•̀ὤ•́)╯ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(； ･`д･´)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(； ･`д･´) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ･᷄ὢ･᷅ )",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "( ･᷄ὢ･᷅ ) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ᕕ༼ ͠ຈ Ĺ̯ ͠ຈ ༽┌∩┐",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "ᕕ༼ ͠ຈ ĺ̯ ͠ຈ ༽┌∩┐ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(╬ﾟдﾟ)╭∩╮",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(╬ﾟдﾟ)╭∩╮ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "٩(◦`꒳´◦)۶",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "٩(◦`꒳´◦)۶ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ノ▼Д▼)ノ",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ノ▼д▼)ノ 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ꐦ°᷄д°᷅)",
+    "name": "愤怒 · 喜悦·庆祝·欢呼",
+    "search_text": "(ꐦ°᷄д°᷅) 愤怒 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(〒︿〒)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(〒︿〒) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "｡ﾟヽ(ﾟ´Д`)ﾉﾟ｡",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "｡ﾟヽ(ﾟ´д`)ﾉﾟ｡ 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(´ﾟдﾟ`)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(´ﾟдﾟ`) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(๑•́ ₃ •̀๑)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(๑•́ ₃ •̀๑) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "இдஇ",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "இдஇ 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(´;ω;`)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(´;ω;`) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "( ˘･з･)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "( ˘･з･) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(´Ａ｀。)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(´ａ｀。) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(╥﹏╥)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(╥﹏╥) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(◜◔。◔◝)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(◜◔。◔◝) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(　´・◡・｀)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(　´・◡・｀) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(☍﹏⁰)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(☍﹏⁰) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "ヾ(◎´・ω・｀)ノ",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "ヾ(◎´・ω・｀)ノ 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "( ´•̥̥̥ω•̥̥̥` )",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "( ´•̥̥̥ω•̥̥̥` ) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "( •́ὤ•̀)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "( •́ὤ•̀) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "曉美焰 ル||☛_☚|リ",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "曉美焰 ル||☛_☚|リ 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "( ´•̥×•̥` )",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "( ´•̥×•̥` ) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(☍﹏⁰。)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(☍﹏⁰。) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "L(　；ω；)┘三└(；ω；　)」",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "l(　；ω；)┘三└(；ω；　)」 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "༼ ༎ຶ ෴ ༎ຶ༽",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "༼ ༎ຶ ෴ ༎ຶ༽ 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(⁠´⁠；⁠ω⁠；⁠｀⁠)",
+    "name": "哀愁 · 思考·分析·推导",
+    "search_text": "(⁠´⁠；⁠ω⁠；⁠｀⁠) 哀愁 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "ヾ(;ﾟ;Д;ﾟ;)ﾉﾞ",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "ヾ(;ﾟ;д;ﾟ;)ﾉﾞ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "。･ﾟ･(つд`ﾟ)･ﾟ･",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "。･ﾟ･(つд`ﾟ)･ﾟ･ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "⊂彡☆))д`)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "⊂彡☆))д`) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "・゜・(PД`q｡)・゜・",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "・゜・(pд`q｡)・゜・ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "⋉(● ∸ ●)⋊",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "⋉(● ∸ ●)⋊ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "Σ(ﾟДﾟ；≡；ﾟдﾟ)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "σ(ﾟдﾟ；≡；ﾟдﾟ) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(◓Д◒)✄╰⋃╯",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(◓д◒)✄╰⋃╯ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(°ཀ°)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(°ཀ°) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "( º﹃º )",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "( º﹃º ) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(›´ω`‹ )",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(›´ω`‹ ) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "( ×ω× )",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "( ×ω× ) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(✺ω✺)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(✺ω✺) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(ﾟ々｡)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "(ﾟ々｡) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "_(┐「﹃ﾟ｡)_",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "_(┐「﹃ﾟ｡)_ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "_(´ཀ`」 ∠)_",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "_(´ཀ`」 ∠)_ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "0(:3　)～ ('､3_ヽ)_",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "0(:3　)～ ('､3_ヽ)_ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": ":;(∩´﹏`∩);:",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": ":;(∩´﹏`∩);: 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "ΩДΩ",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "ωдω 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "( ͡ʘ ͜ʖ ͡ʘ)",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "( ͡ʘ ͜ʖ ͡ʘ) 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "_(┐ ◟;ﾟдﾟ)ノ",
+    "name": "悲剧 · 安慰·抚慰·共情",
+    "search_text": "_(┐ ◟;ﾟдﾟ)ノ 悲剧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(ﾟд⊙)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟд⊙) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ゝ∀･)b",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(ゝ∀･)b 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "d(d＇∀＇)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "d(d＇∀＇) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ﾟ3ﾟ)～♪",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(ﾟ3ﾟ)～♪ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(〃∀〃)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(〃∀〃) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(శωశ)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(శωశ) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(◔౪◔)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(◔౪◔) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "☝( ◠‿◠ )☝",
+    "name": "愉悦 · 思考·分析·推导",
+    "search_text": "☝( ◠‿◠ )☝ 愉悦 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "((└(:3」┌)┘))",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "((└(:3」┌)┘)) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(∂ω∂)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(∂ω∂) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(<ゝω・) 綺羅星☆",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(<ゝω・) 綺羅星☆ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "_(:3 ⌒ﾞ)_",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "_(:3 ⌒ﾞ)_ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( σ՞ਊ ՞)σ",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "( σ՞ਊ ՞)σ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ლ(́◕◞౪◟◕‵ლ)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ(́◕◞౪◟◕‵ლ) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(◕ܫ◕)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(◕ܫ◕) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´ΘωΘ`)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(´θωθ`) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "_(¦3」∠)_",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "_(¦3」∠)_ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "♥(´∀` )人",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "♥(´∀` )人 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ～'ω')～",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "( ～'ω')～ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑ơ ₃ ơ)♥",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑ơ ₃ ơ)♥ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(^ρ^)/",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(^ρ^)/ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(๑´ㅁ`)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(๑´ㅁ`) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ﾒ∀・)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "( ﾒ∀・) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "。゜+.(人-ω◕)゜+.゜",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "。゜+.(人-ω◕)゜+.゜ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "━(ﾟ∀ﾟ)━( ﾟ∀)━( ﾟ)━( )━( )━(ﾟ)━(∀ﾟ)━(ﾟ∀ﾟ)━",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "━(ﾟ∀ﾟ)━( ﾟ∀)━( ﾟ)━( )━( )━(ﾟ)━(∀ﾟ)━(ﾟ∀ﾟ)━ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(♛‿♛)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(♛‿♛) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(́提◞౪◟供‵)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(́提◞౪◟供‵) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "✧◝(⁰▿⁰)◜✧",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "✧◝(⁰▿⁰)◜✧ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(・ε・)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(・ε・) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(꒪ͦᴗ̵̍꒪ͦ )",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(꒪ͦᴗ̵̍꒪ͦ ) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*ﾟーﾟ)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(*ﾟーﾟ) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "◝(　ﾟ∀ ﾟ )◟",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "◝(　ﾟ∀ ﾟ )◟ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*´д`)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(*´д`) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(❁´ω`❁)*✲ﾟ*",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(❁´ω`❁)*✲ﾟ* 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "◢▆▅▄▃ 溫╰(〞︶〝) ╯馨 ▃▄▅▆◣",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "◢▆▅▄▃ 溫╰(〞︶〝) ╯馨 ▃▄▅▆◣ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(▰˘◡˘▰)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(▰˘◡˘▰) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(っ●ω●)っ",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(っ●ω●)っ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(●⁰౪⁰●)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(●⁰౪⁰●) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "....ˊˋ------｡:.ﾟ_ヽ(_´∀`_)ﾉ_.:｡((浮水",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "....ˊˋ------｡:.ﾟ_ヽ(_´∀`_)ﾉ_.:｡((浮水 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ᕕ ( ᐛ ) ᕗ",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "ᕕ ( ᐛ ) ᕗ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(́순◞౪◟순‵)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(́순◞౪◟순‵) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(//´/◒/`//)",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(//´/◒/`//) 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(づ′▽`)づ",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(づ′▽`)づ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(◍•ᴗ•◍)ゝ",
+    "name": "愉悦 · 喜悦·庆祝·欢呼",
+    "search_text": "(◍•ᴗ•◍)ゝ 愉悦 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´ー`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´ー`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(‘⊙д-)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(‘⊙д-) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´c_`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´c_`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(=m=)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(=m=) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´・Å・`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´・å・`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´,_ゝ`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´,_ゝ`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´_ゝ`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´_ゝ`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(|||ﾟдﾟ)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(|||ﾟдﾟ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "-`д´-",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "-`д´- 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮(╯_╰)╭",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "╮(╯_╰)╭ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "_(┐「ε:)_",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "_(┐「ε:)_ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "＿ﾉ乙(､ﾝ､)＿",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "＿ﾉ乙(､ﾝ､)＿ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´-ι_-｀)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´-ι_-｀) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´･_･`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´･_･`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "|柱|ω・`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "|柱|ω・`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(ﾟ⊿ﾟ)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(ﾟ⊿ﾟ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(ㆆᴗㆆ)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(ㆆᴗㆆ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(　◜◡‾)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(　◜◡‾) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "┐(´д`)┌",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "┐(´д`)┌ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "（’へ’）",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "（’へ’） 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´σ-`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´σ-`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´～`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´～`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( ˘•ω•˘ )",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "( ˘•ω•˘ ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(눈‸눈)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(눈‸눈) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ლ(◉◞౪◟◉ )ლ",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "ლ(◉◞౪◟◉ )ლ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ლ(´•д• ̀ლ",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "ლ(´•д• ̀ლ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮(′～‵〞)╭",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "╮(′～‵〞)╭ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ლ(╯⊙ε⊙ლ╰)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "ლ(╯⊙ε⊙ლ╰) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(´-ω-｀)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(´-ω-｀) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( ´ﾟДﾟ`)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "( ´ﾟдﾟ`) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "┳━┳ノ( ' - 'ノ)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "┳━┳ノ( ' - 'ノ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "┳━┳ノ( OωOノ)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "┳━┳ノ( oωoノ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(≖＿≖)✧",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(≖＿≖)✧ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ƪ(•̃͡ε•̃͡)∫",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "ƪ(•̃͡ε•̃͡)∫ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(｡-_-｡)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(｡-_-｡) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( ¯•ω•¯ )",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "( ¯•ω•¯ ) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮(╯∀╰)╭",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "╮(╯∀╰)╭ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "( •́ _ •̀)？",
+    "name": "无奈 · 思考·分析·推导",
+    "search_text": "( •́ _ •̀)？ 无奈 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "-//(ǒ.ǒ)//-",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "-//(ǒ.ǒ)//- 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "_:(´□`」 ∠):_",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "_:(´□`」 ∠):_ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "눈言눈",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "눈言눈 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(ㆀ˘･з･˘)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(ㆀ˘･з･˘) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(ノ〠_〠)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "(ノ〠_〠) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "¯\\_(ツ)_/¯",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "¯\\_(ツ)_/¯ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "ㅍ_ㅍ",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "ㅍ_ㅍ 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "('◐_﹥◑)",
+    "name": "无奈 · 无奈·叹气·尴尬",
+    "search_text": "('◐_﹥◑) 无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(*´Д`)つ))´∀`)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(*´д`)つ))´∀`) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(o´・ω・`)σ)Д`)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(o´・ω・`)σ)д`) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(*´ω`)人(´ω`*)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(*´ω`)人(´ω`*) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ｏﾟﾛﾟ)┌┛Σ(ﾉ´*ω*`)ﾉ",
+    "name": "互动 · 轻度惊讶·意外·感叹",
+    "search_text": "(ｏﾟﾛﾟ)┌┛σ(ﾉ´*ω*`)ﾉ 互动 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(´>∀)人(´・ω・)ﾉヽ(・ε・*)人(-д-`)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(´>∀)人(´・ω・)ﾉヽ(・ε・*)人(-д-`) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ヽ(∀ﾟ )人(ﾟ∀ﾟ)人( ﾟ∀)人(∀ﾟ )人(ﾟ∀ﾟ)人( ﾟ∀)ﾉ",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ヽ(∀ﾟ )人(ﾟ∀ﾟ)人( ﾟ∀)人(∀ﾟ )人(ﾟ∀ﾟ)人( ﾟ∀)ﾉ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ლ(・´ｪ`・ლ)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ(・´ｪ`・ლ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(σ回ω・)σ←↑→↓←↑",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(σ回ω・)σ←↑→↓←↑ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(#‵)3′)▂▂▂▃▄▅～～～嗡嗡嗡嗡嗡",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(#‵)3′)▂▂▂▃▄▅～～～嗡嗡嗡嗡嗡 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "#ﾟÅﾟ）⊂彡☆))ﾟДﾟ)･∵",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "#ﾟåﾟ）⊂彡☆))ﾟдﾟ)･∵ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "｡･ﾟ･(ﾉД`)ヽ(ﾟДﾟ )秀秀",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "｡･ﾟ･(ﾉд`)ヽ(ﾟдﾟ )秀秀 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(ㄏ￣▽￣)ㄏ   ㄟ(￣▽￣ㄟ)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(ㄏ￣▽￣)ㄏ   ㄟ(￣▽￣ㄟ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ლ(ﾟдﾟლ)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ლ(ﾟдﾟლ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ﾟ∀ﾟ)o彡ﾟ",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "( ﾟ∀ﾟ)o彡ﾟ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ‘д‘⊂彡☆))Д´)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "( ‘д‘⊂彡☆))д´) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(　′∀`)σ≡σ☆))Д′)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(　′∀`)σ≡σ☆))д′) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ﾚ(ﾟ∀ﾟ;)ﾍ=З=З=З",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ﾚ(ﾟ∀ﾟ;)ﾍ=з=з=з 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ε≡(ノ´＿ゝ｀）ノ",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ε≡(ノ´＿ゝ｀）ノ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "魔貫光殺砲(ﾟДﾟ)σ━00000000000━●",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "魔貫光殺砲(ﾟдﾟ)σ━00000000000━● 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "どこ━━━━(゜∀゜三゜∀゜)━━━━!!??",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "どこ━━━━(゜∀゜三゜∀゜)━━━━!!?? 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "σ(´∀｀*)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "σ(´∀｀*) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┏( .-. ┏ ) ┓",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "┏( .-. ┏ ) ┓ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(∩^o^)⊃━☆ﾟ.*･｡",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(∩^o^)⊃━☆ﾟ.*･｡ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "..._〆(°▽°*)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "..._〆(°▽°*) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ε=ε=ヾ(;ﾟдﾟ)/",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ε=ε=ヾ(;ﾟдﾟ)/ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "ε≡ﾍ( ´∀`)ﾉ",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "ε≡ﾍ( ´∀`)ﾉ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "|Д`)ノ⌒●～*",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "|д`)ノ⌒●～* 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ´∀`);y=ｰ(ﾟдﾟ)･∵. ﾀｰﾝ",
+    "name": "互动 · 轻度惊讶·意外·感叹",
+    "search_text": "( ´∀`);y=ｰ(ﾟдﾟ)･∵. ﾀｰﾝ 互动 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(´･д･｀)ﾊ(･д･｀*)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(´･д･｀)ﾊ(･д･｀*) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(“￣▽￣)-o█ █o-(￣▽￣”)/",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(“￣▽￣)-o█ █o-(￣▽￣”)/ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(´;ω;`)ヾ(･∀･`)",
+    "name": "摸头安慰 · 安慰·抚慰·共情",
+    "search_text": "(´;ω;`)ヾ(･∀･`) 摸头安慰 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(・∀・)ノ三G[__]ｺ",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(・∀・)ノ三g[__]ｺ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(｢･ω･)｢",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(｢･ω･)｢ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(=ﾟДﾟ=) ▄︻┻┳━ ·.`.`.`.",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(=ﾟдﾟ=) ▄︻┻┳━ ·.`.`.`. 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ´-ω ･)▄︻┻┳══━",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "( ´-ω ･)▄︻┻┳══━ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(:3っ)へ ヽ(´Д｀●ヽ)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(:3っ)へ ヽ(´д｀●ヽ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": ": ♡｡ﾟ.(*♡´◡` 人´◡` ♡*)ﾟ♡ °・",
+    "name": "互动 · 温柔·感谢·友好",
+    "search_text": ": ♡｡ﾟ.(*♡´◡` 人´◡` ♡*)ﾟ♡ °・ 互动 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(´д((☆ミPia!⊂▼(ｏ ‵－′ｏ)▼つPia!彡★))∀`)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(´д((☆ミpia!⊂▼(ｏ ‵－′ｏ)▼つpia!彡★))∀`) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(￣ε(#￣)☆",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(￣ε(#￣)☆ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(/ ↀ3ↀ)/q(﹌ω﹌ )",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(/ ↀ3ↀ)/q(﹌ω﹌ ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "╮/(＞▽<)人(>▽＜)╭",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "╮/(＞▽<)人(>▽＜)╭ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "(〃￣ω￣)人(￣︶￣〃)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "(〃￣ω￣)人(￣︶￣〃) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "┬─┬ ノ( ' - 'ノ)",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "┬─┬ ノ( ' - 'ノ) 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "（つ> _◕）つ︻╦̵̵͇̿̿̿̿╤───",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "（つ> _◕）つ︻╦̵̵͇̿̿̿̿╤─── 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "༼ つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿◕ _◕ ༽つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿",
+    "name": "互动 · 喜悦·庆祝·欢呼",
+    "search_text": "༼ つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿◕ _◕ ༽つ/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ 互动 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "( ´･ω)",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "( ´･ω) 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(｡í _ ì｡)",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "(｡í _ ì｡) 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "ヾ(⌒(_´･ㅅ･`)_",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "ヾ(⌒(_´･ㅅ･`)_ 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(｡ŏ_ŏ)",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "(｡ŏ_ŏ) 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(◞‸◟)",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "(◞‸◟) 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "il||li _|￣|○ヽ(･ω･｀)",
+    "name": "沮丧 · 安慰·抚慰·共情",
+    "search_text": "il||li _|￣|○ヽ(･ω･｀) 沮丧 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "<(_ _)>",
+    "name": "道歉 · 歉意·鞠躬·求谅解",
+    "search_text": "<(_ _)> 道歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "m(｡≧ｴ≦｡)m",
+    "name": "道歉 · 歉意·鞠躬·求谅解",
+    "search_text": "m(｡≧ｴ≦｡)m 道歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(●б人<●)",
+    "name": "道歉 · 歉意·鞠躬·求谅解",
+    "search_text": "(●б人<●) 道歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(；´ﾟωﾟ｀人)",
+    "name": "道歉 · 歉意·鞠躬·求谅解",
+    "search_text": "(；´ﾟωﾟ｀人) 道歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "๛ก（ーωーก）",
+    "name": "道歉 · 歉意·鞠躬·求谅解",
+    "search_text": "๛ก（ーωーก） 道歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(*´∀`)~♥",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(*´∀`)~♥ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "ε٩(๑> ₃ <)۶з",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "ε٩(๑> ₃ <)۶з 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(　ﾟ∀ﾟ)つ≡≡≡♡♡♡)`ν゜)ｸﾞｼｬ",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(　ﾟ∀ﾟ)つ≡≡≡♡♡♡)`ν゜)ｸﾞｼｬ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(´▽`ʃ♡ƪ)\"",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(´▽`ʃ♡ƪ)\" 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(●´ω｀●)ゞ",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(●´ω｀●)ゞ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "♡(*´∀｀*)人(*´∀｀*)♡",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "♡(*´∀｀*)人(*´∀｀*)♡ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*´з｀*)",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(*´з｀*) 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "ヾ(●゜▽゜●)♡",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "ヾ(●゜▽゜●)♡ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "( శ 3ੜ)～♥",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "( శ 3ੜ)～♥ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "( ♥д♥)",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "( ♥д♥) 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(♡˙︶˙♡)",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(♡˙︶˙♡) 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "Σ>―(〃°ω°〃)♡→",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "σ>―(〃°ω°〃)♡→ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(´,,•ω•,,)♡",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(´,,•ω•,,)♡ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "( *¯ ³¯*)♡ㄘゅ",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "( *¯ ³¯*)♡ㄘゅ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*´д`)~♥",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(*´д`)~♥ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(╭￣3￣)╭♡",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(╭￣3￣)╭♡ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(,,Ծ 3 Ծ,,)",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(,,ծ 3 ծ,,) 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(,,ᴗ ᴗ,,) ⁾⁾",
+    "name": "爱 · 温柔·感谢·友好",
+    "search_text": "(,,ᴗ ᴗ,,) ⁾⁾ 爱 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(￣(エ)￣)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(￣(エ)￣) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(●｀･(ｴ)･´●)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(●｀･(ｴ)･´●) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "┏((＝￣(ｴ)￣=))┛",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "┏((＝￣(ｴ)￣=))┛ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(ó㉨ò)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(ó㉨ò) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "<*)) >>=<",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "<*)) >>=< 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "≧〔゜゜〕≦",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "≧〔゜゜〕≦ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( ´(00)`)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "( ´(00)`) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ヾ(；ﾟ(OO)ﾟ)ﾉ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ヾ(；ﾟ(oo)ﾟ)ﾉ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(❍ᴥ❍ʋ)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(❍ᴥ❍ʋ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "／/( ◕‿‿◕ )＼",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "／/( ◕‿‿◕ )＼ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(•ө•)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(•ө•) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(◔⊖◔)つ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(◔⊖◔)つ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(o･e･)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(o･e･) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( ิ◕㉨◕ ิ)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "( ิ◕㉨◕ ิ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(ΦωΦ)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(φωφ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(｡･㉨･｡)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(｡･㉨･｡) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ก็ʕ•͡ᴥ•ʔ ก้",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ก็ʕ•͡ᴥ•ʔ ก้ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( ﾟ Χ ﾟ)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "( ﾟ χ ﾟ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(⁰⊖⁰)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(⁰⊖⁰) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(=´ω`=)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(=´ω`=) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( Φ ω Φ )",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "( φ ω φ ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ヾ(*ΦωΦ)ツ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ヾ(*φωφ)ツ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(´;;◉;⊖;◉;;｀)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(´;;◉;⊖;◉;;｀) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(=´ᴥ`)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(=´ᴥ`) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "Φ౪Φ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "φ౪φ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ฅ●ω●ฅ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ฅ●ω●ฅ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(･8･)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(･8･) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(=^-ω-^=)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(=^-ω-^=) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "( ˊ̱˂˃ˋ̱ )",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "( ˊ̱˂˃ˋ̱ ) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "⧸⎩⎠⎞͏(・∀・)⎛͏⎝⎭⧹",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "⧸⎩⎠⎞͏(・∀・)⎛͏⎝⎭⧹ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "Ꮚ･ꈊ･Ꮚ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ꮚ･ꈊ･ꮚ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ฅ^•ﻌ•^ฅ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ฅ^•ﻌ•^ฅ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "/ᐠ｡ꞈ｡ᐟ\\",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "/ᐠ｡ꞈ｡ᐟ\\ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "/ᐠ .ᆺ. ᐟ\\ﾉ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "/ᐠ .ᆺ. ᐟ\\ﾉ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "▼・ᴥ・▼",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "▼・ᴥ・▼ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "⋛⋋( ‘Θ’)⋌⋚",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "⋛⋋( ‘θ’)⋌⋚ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ʕʘ̅͜ʘ̅ʔ",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ʕʘ̅͜ʘ̅ʔ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(=^×^=)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(=^×^=) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "Ϟ(๑⚈ ․̫ ⚈๑)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ϟ(๑⚈ ․̫ ⚈๑) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(๑-_-๑)",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "(๑-_-๑) 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "◀︎ ̥𐄀৩̫𐄀 ̥▶︎",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "◀︎ ̥𐄀৩̫𐄀 ̥▶︎ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "ε ◕ ｴ ◕ 3",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "ε ◕ ｴ ◕ 3 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "（0皿0）",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "（0皿0） 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "＞(ˊ︶ˋ)＜",
+    "name": "动物 · 萌宠·动物·拟态",
+    "search_text": "＞(ˊ︶ˋ)＜ 动物 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(д) ﾟﾟ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "(д) ﾟﾟ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(;ﾟдﾟ)",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(;ﾟдﾟ) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(●▼●;)",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "(●▼●;) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "┌|◎o◎|┘",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "┌|◎o◎|┘ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(｡•ㅅ•｡)♡",
+    "name": "惊讶 · 温柔·感谢·友好",
+    "search_text": "(｡•ㅅ•｡)♡ 惊讶 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "∑(ι´Дン)ノ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "∑(ι´дン)ノ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(°ﾛ°٥)",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "(°ﾛ°٥) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "ฅ(๑*д*๑)ฅ!!",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "ฅ(๑*д*๑)ฅ!! 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "＼(●o○;)ノ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "＼(●o○;)ノ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(°Д°;",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(°д°; 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σヽ(ﾟД ﾟ; )ﾉ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "σヽ(ﾟд ﾟ; )ﾉ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "∑(￣□￣;)",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "∑(￣□￣;) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "∑(✘Д✘๑ )",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "∑(✘д✘๑ ) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "ㅇㅅㅇ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "ㅇㅅㅇ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(;◉∀◉)オッ(∀◉)◉ハッ(;∀)◉◉ヨｫー!!!",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "(;◉∀◉)オッ(∀◉)◉ハッ(;∀)◉◉ヨｫー!!! 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "( ºωº )",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "( ºωº ) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "δ△δ",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "δ△δ 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(ﾟ∀ﾟ;)",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "(ﾟ∀ﾟ;) 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "<(ºOº)>",
+    "name": "惊讶 · 轻度惊讶·意外·感叹",
+    "search_text": "<(ºoº)> 惊讶 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "٩(ˊᗜˋ*)و",
+    "name": "雀跃欢呼 · 喜悦·庆祝·欢呼",
+    "search_text": "٩(ˊᗜˋ*)و 雀跃欢呼 高兴 庆祝 开心 欢呼 愉悦 好耶 乐 大捷 喜悦·庆祝·欢呼",
+    "category": "HappyCelebrate"
+  },
+  {
+    "glyph": "٩(｡・ω・｡)و",
+    "name": "干劲满满 · 鼓励·加油·赞赏",
+    "search_text": "٩(｡・ω・｡)و 干劲满满 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(ง •̀_•́)ง",
+    "name": "全力以赴 · 鼓励·加油·赞赏",
+    "search_text": "(ง •̀_•́)ง 全力以赴 加油 鼓励 赞赏 棒 冲 干劲 顶 给力 鼓励·加油·赞赏",
+    "category": "EncouragePraise"
+  },
+  {
+    "glyph": "(｡･ω･｡)ﾉ♡",
+    "name": "送出爱心 · 温柔·感谢·友好",
+    "search_text": "(｡･ω･｡)ﾉ♡ 送出爱心 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(*´▽｀)ノノ",
+    "name": "温和致意 · 温柔·感谢·友好",
+    "search_text": "(*´▽｀)ノノ 温和致意 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(人´∀｀)．☆．。．:*･°",
+    "name": "至诚感谢 · 温柔·感谢·友好",
+    "search_text": "(人´∀｀)．☆．。．:*･° 至诚感谢 感谢 谢谢 温柔 友好 礼貌 爱心 么么哒 温柔·感谢·友好",
+    "category": "GratefulFriendly"
+  },
+  {
+    "glyph": "(っ´▽`)っ",
+    "name": "张开怀抱 · 安慰·抚慰·共情",
+    "search_text": "(っ´▽`)っ 张开怀抱 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(づ｡◕‿‿◕｡)づ",
+    "name": "温柔拥抱 · 安慰·抚慰·共情",
+    "search_text": "(づ｡◕‿‿◕｡)づ 温柔拥抱 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(｡•́︿•̀｡)",
+    "name": "委屈难过 · 安慰·抚慰·共情",
+    "search_text": "(｡•́︿•̀｡) 委屈难过 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "ヾ(・ω・*)",
+    "name": "拍拍安抚 · 安慰·抚慰·共情",
+    "search_text": "ヾ(・ω・*) 拍拍安抚 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(つω｀｡)",
+    "name": "拭去泪水 · 安慰·抚慰·共情",
+    "search_text": "(つω｀｡) 拭去泪水 安慰 抱抱 共情 摸头 抚慰 心疼 擦眼泪 安慰·抚慰·共情",
+    "category": "ComfortEmpathy"
+  },
+  {
+    "glyph": "(・_・ヾ",
+    "name": "挠头思索 · 思考·分析·推导",
+    "search_text": "(・_・ヾ 挠头思索 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(｡ ･o･)",
+    "name": "恍然寻思 · 思考·分析·推导",
+    "search_text": "(｡ ･o･) 恍然寻思 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(・・ ) ?",
+    "name": "好奇打量 · 思考·分析·推导",
+    "search_text": "(・・ ) ? 好奇打量 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(￣▽￣)ゞ",
+    "name": "抓耳挠腮 · 思考·分析·推导",
+    "search_text": "(￣▽￣)ゞ 抓耳挠腮 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(´･ω･｀)?",
+    "name": "纳闷思量 · 思考·分析·推导",
+    "search_text": "(´･ω･｀)? 纳闷思量 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(°ロ°)☝",
+    "name": "灵机一动 · 思考·分析·推导",
+    "search_text": "(°ロ°)☝ 灵机一动 思考 分析 疑惑 琢磨 推导 思索 发问 思考·分析·推导",
+    "category": "ThinkingAnalyze"
+  },
+  {
+    "glyph": "(ﾟдﾟ)",
+    "name": "吃惊发愣 · 轻度惊讶·意外·感叹",
+    "search_text": "(ﾟдﾟ) 吃惊发愣 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(ﾟДﾟ)",
+    "name": "大为震惊 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(ﾟдﾟ) 大为震惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(⊙o⊙)",
+    "name": "目瞪口呆 · 轻度惊讶·意外·感叹",
+    "search_text": "(⊙o⊙) 目瞪口呆 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "Σ(・Д・ノ)ノ",
+    "name": "猛然一惊 · 轻度惊讶·意外·感叹",
+    "search_text": "σ(・д・ノ)ノ 猛然一惊 惊讶 震惊 意外 感叹 愣住 wow 惊喜 轻度惊讶·意外·感叹",
+    "category": "SurprisedShock"
+  },
+  {
+    "glyph": "(´･ω･`)",
+    "name": "委屈叹气 · 无奈·叹气·尴尬",
+    "search_text": "(´･ω･`) 委屈叹气 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(；´д｀)ゞ",
+    "name": "擦汗无奈 · 无奈·叹气·尴尬",
+    "search_text": "(；´д｀)ゞ 擦汗无奈 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(￣ω￣;)",
+    "name": "尴尬冒汗 · 无奈·叹气·尴尬",
+    "search_text": "(￣ω￣;) 尴尬冒汗 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "╮(￣▽￣)╭",
+    "name": "耸肩摊手 · 无奈·叹气·尴尬",
+    "search_text": "╮(￣▽￣)╭ 耸肩摊手 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "(；一_一)",
+    "name": "无语凝视 · 无奈·叹气·尴尬",
+    "search_text": "(；一_一) 无语凝视 无奈 叹气 汗 尴尬 摊手 无语 囧 晕 无奈·叹气·尴尬",
+    "category": "HelplessSigh"
+  },
+  {
+    "glyph": "m(_ _)m",
+    "name": "躬身致歉 · 歉意·鞠躬·求谅解",
+    "search_text": "m(_ _)m 躬身致歉 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(シ_ _)シ",
+    "name": "俯首拜谢 · 歉意·鞠躬·求谅解",
+    "search_text": "(シ_ _)シ 俯首拜谢 道歉 鞠躬 对不起 惭愧 请原谅 拜托 合十 歉意·鞠躬·求谅解",
+    "category": "ApologyBow"
+  },
+  {
+    "glyph": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+    "name": "脸红害羞 · 卖萌·害羞·撒娇",
+    "search_text": "(⁄ ⁄•⁄ω⁄•⁄ ⁄) 脸红害羞 卖萌 害羞 可爱 脸红 眨眼 嘟嘴 乖巧 卖萌·害羞·撒娇",
+    "category": "CuteShy"
+  },
+  {
+    "glyph": "( ˘ ³˘)♥",
+    "name": "搞怪亲亲 · 幽默·傲娇·打趣",
+    "search_text": "( ˘ ³˘)♥ 搞怪亲亲 傲娇 得意 打趣 拍桌 幽默 搞笑 不屑 幽默·傲娇·打趣",
+    "category": "FunnyTeasing"
+  },
+  {
+    "glyph": "(*・ω・)ﾉ",
+    "name": "日常招手 · 日常·问候·休息",
+    "search_text": "(*・ω・)ﾉ 日常招手 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "ヾ(•ω•`)o",
+    "name": "礼貌道别 · 日常·问候·休息",
+    "search_text": "ヾ(•ω•`)o 礼貌道别 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "(。-ω-)zzz",
+    "name": "呼呼大睡 · 日常·问候·休息",
+    "search_text": "(。-ω-)zzz 呼呼大睡 日常 打招呼 问候 早安 晚安 睡觉 再见 挥手 日常·问候·休息",
+    "category": "DailyRest"
+  },
+  {
+    "glyph": "≽^•༚• ྀི≼",
+    "name": "软萌猫猫 · 萌宠·动物·拟态",
+    "search_text": "≽^•༚• ྀི≼ 软萌猫猫 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "✧੯•́໒꒱",
+    "name": "机敏小狗 · 萌宠·动物·拟态",
+    "search_text": "✧੯•́໒꒱ 机敏小狗 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  },
+  {
+    "glyph": "(ᵔᴥᵔ)",
+    "name": "憨厚小熊 · 萌宠·动物·拟态",
+    "search_text": "(ᵔᴥᵔ) 憨厚小熊 动物 猫咪 小狗 小熊 宠物 拟态 萌宠 萌宠·动物·拟态",
+    "category": "AnimalMascot"
+  }
+]
